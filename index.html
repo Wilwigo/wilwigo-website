@@ -13,8 +13,6 @@
       --ink: #18242d;
       --muted: #60707b;
       --line: #e6edf1;
-      --soft: #f5fafc;
-      --white: #ffffff;
       --shadow: 0 24px 60px rgba(28, 67, 87, .13);
     }
 
@@ -42,18 +40,8 @@
       gap: 24px;
     }
 
-    .brand {
-      display: inline-flex;
-      align-items: center;
-      text-decoration: none;
-      font-size: 42px;
-      line-height: 1;
-      font-weight: 800;
-      letter-spacing: -.065em;
-      color: var(--blue);
-    }
-
-    .brand span:last-child { color: var(--cyan); }
+    .brand { display: inline-flex; align-items: center; text-decoration: none; }
+    .brand img { width: 190px; height: auto; display: block; }
 
     .button {
       display: inline-flex;
@@ -237,7 +225,7 @@
 
     @media (max-width: 850px) {
       nav { height: 80px; }
-      .brand { font-size: 36px; }
+      .brand img { width: 160px; }
       .hero {
         grid-template-columns: 1fr;
         gap: 42px;
@@ -249,7 +237,7 @@
 
     @media (max-width: 520px) {
       .shell { width: min(100% - 28px, 1160px); }
-      .brand { font-size: 32px; }
+      .brand img { width: 142px; }
       nav .button { min-height: 42px; padding: 0 17px; }
       h1 { font-size: 46px; }
       .hero-copy { font-size: 17px; }
@@ -264,7 +252,9 @@
 <body>
   <div class="shell">
     <nav aria-label="Primary navigation">
-      <a class="brand" href="#" aria-label="Wilwigo home"><span>wilwi</span><span>go</span></a>
+      <a class="brand" href="#" aria-label="Wilwigo home">
+        <img src="wilwigo-logo.webp" alt="Wilwigo" />
+      </a>
       <a class="button button-primary" href="https://wilwigo--first-tester-alpha.expo.app/" rel="noopener">Open Wilwigo</a>
     </nav>
 
