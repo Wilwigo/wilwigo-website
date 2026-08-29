@@ -5,18 +5,18 @@ permalink: /privacy/
 ---
 # Wilwigo Private Alpha Privacy Notice
 
-**Operator:** Pierre Bechereau, operating Wilwigo  
-**Product:** Wilwigo  
-**Version:** L1-P-1.5  
-**Effective date:** 2026-08-23
+**Operator:** Wilwigo Inc.
+**Product:** Wilwigo
+**Version:** L1-P-1.6
+**Effective date:** 2026-08-29
 
 ## 1. About this Privacy Notice
 
 This Privacy Notice explains how Wilwigo collects, uses, shares, retains and protects personal information when you use the Wilwigo private alpha.
 
-Wilwigo is operated from Ontario, Canada and is available to adults age 18 or older who are legally permitted to use the service where they are located. Depending on where you are located, additional privacy laws or rights may apply. This Privacy Notice does not limit rights that applicable law does not permit Wilwigo to limit.
+Wilwigo is operated by Wilwigo Inc., a Canadian federal corporation registered in Ontario, Canada, and is available to adults age 18 or older who are legally permitted to use the service where they are located. Depending on where you are located, additional privacy laws or rights may apply. This Privacy Notice does not limit rights that applicable law does not permit Wilwigo to limit.
 
-Pierre Bechereau, operating Wilwigo, is responsible for Wilwigo's privacy practices for this alpha.
+Wilwigo Inc. is responsible for Wilwigo's privacy practices for this alpha and has designated a Privacy Officer accountable for those practices.
 
 ## 2. The most important things to know
 
@@ -197,7 +197,7 @@ After you submit the request, Wilwigo will delete your account and active accoun
 
 If you cannot access your account, use Wilwigo's public account-deletion resource or contact:
 
-[**pierre.bechereau@gmail.com**](mailto:pierre.bechereau@gmail.com)
+[**privacy@wilwigo.com**](mailto:privacy@wilwigo.com)
 
 Where possible, make the request from the email associated with your Wilwigo account.
 
@@ -242,15 +242,15 @@ Minor wording, formatting or clarification changes that do not materially change
 
 ## 13. Contact and complaints
 
-Pierre Bechereau is responsible for privacy matters for this private alpha.
+Wilwigo Inc. is responsible for personal information under its control. Its Privacy Officer is accountable for Wilwigo's privacy practices for this private alpha.
 
 Questions, access or correction requests, deletion requests and privacy complaints may be sent to:
 
-**Pierre Bechereau, operating Wilwigo**  
-[**pierre.bechereau@gmail.com**](mailto:pierre.bechereau@gmail.com)  
+**Privacy Officer, Wilwigo Inc.**
+[**privacy@wilwigo.com**](mailto:privacy@wilwigo.com)
 **Ontario, Canada**
 
 If your concern is not resolved, you may have the right to make a complaint to the **Office of the Privacy Commissioner of Canada**.
 
-**Version:** L1-P-1.5  
-**Effective date:** 2026-08-23
+**Version:** L1-P-1.6
+**Effective date:** 2026-08-29

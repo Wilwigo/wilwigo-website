@@ -5,14 +5,14 @@ permalink: /terms/
 ---
 # Wilwigo Private Alpha Terms
 
-**Operator:** Pierre Bechereau, operating Wilwigo  
-**Product:** Wilwigo  
-**Version:** L1-T-1.5  
-**Effective date:** 2026-08-23
+**Operator:** Wilwigo Inc.
+**Product:** Wilwigo
+**Version:** L1-T-1.6
+**Effective date:** 2026-08-29
 
 ## 1. Agreement
 
-These Terms are an agreement between you and Pierre Bechereau, operating Wilwigo ("Wilwigo", "we", "us").
+These Terms are an agreement between you and Wilwigo Inc. ("Wilwigo", "we", "us").
 
 By selecting the acknowledgment checkbox and choosing **Agree and continue**, you agree to these Terms.
 
@@ -29,7 +29,7 @@ You may use this private alpha only if:
 - you use Wilwigo for your own personal, non-commercial purposes; and
 - the information you provide about yourself is reasonably accurate.
 
-Wilwigo is operated from Ontario, Canada. If mandatory law where you live or use Wilwigo gives you rights or protections that cannot lawfully be waived or limited by these Terms, those rights and protections continue to apply.
+Wilwigo is operated by Wilwigo Inc., a Canadian federal corporation registered in Ontario, Canada. If mandatory law where you live or use Wilwigo gives you rights or protections that cannot lawfully be waived or limited by these Terms, those rights and protections continue to apply.
 
 Your account is personal. You may not sell or transfer it, share access to it, or allow another person to use it.
 
@@ -120,7 +120,7 @@ Suspension or termination does not automatically determine how personal informat
 
 ## 9. Wilwigo's intellectual property
 
-Except for content provided by participants, Wilwigo and its associated software, designs, branding and other materials are owned by or licensed to the operator and are protected by applicable intellectual-property laws.
+Except for content provided by participants, Wilwigo and its associated software, designs, branding and other materials are owned by or licensed to Wilwigo Inc. and are protected by applicable intellectual-property laws.
 
 While you remain eligible to participate, Wilwigo gives you a personal, limited, non-exclusive, non-transferable right to use the private alpha in accordance with these Terms.
 
@@ -162,17 +162,17 @@ Nothing in these Terms excludes any warranty, right, remedy or obligation that a
 
 ## 14. Limitation of liability
 
-To the maximum extent permitted by applicable law, Wilwigo and the operator will not be liable for indirect, incidental, special, consequential, exemplary or punitive damages, or for lost profits, revenues, goodwill or data, arising from or relating to your use of or inability to use the private alpha.
+To the maximum extent permitted by applicable law, Wilwigo Inc. will not be liable for indirect, incidental, special, consequential, exemplary or punitive damages, or for lost profits, revenues, goodwill or data, arising from or relating to your use of or inability to use the private alpha.
 
-To the maximum extent permitted by applicable law, Wilwigo's and the operator's total aggregate liability arising from or relating to the private alpha or these Terms will not exceed **CAD $100**.
+To the maximum extent permitted by applicable law, Wilwigo Inc.'s total aggregate liability arising from or relating to the private alpha or these Terms will not exceed **CAD $100**.
 
 These limitations do not apply to liability that applicable law does not permit to be excluded or limited.
 
 ## 15. Third-party claims caused by your conduct
 
-To the extent permitted by applicable law, if your unlawful use of Wilwigo, your material breach of these Terms, or content you provide without the necessary rights causes a third-party claim against Wilwigo or the operator, you are responsible for the reasonable losses and costs resulting from that claim.
+To the extent permitted by applicable law, if your unlawful use of Wilwigo, your material breach of these Terms, or content you provide without the necessary rights causes a third-party claim against Wilwigo Inc., you are responsible for the reasonable losses and costs resulting from that claim.
 
-This does not apply to the extent a claim results from Wilwigo's or the operator's own acts or omissions.
+This does not apply to the extent a claim results from Wilwigo Inc.'s own acts or omissions.
 
 ## 16. Leaving Wilwigo and deleting your account
 
@@ -216,9 +216,9 @@ Section headings are for convenience and do not change the meaning of these Term
 
 Questions about these Terms or Wilwigo may be sent to:
 
-**Pierre Bechereau, operating Wilwigo**  
-[**pierre.bechereau@gmail.com**](mailto:pierre.bechereau@gmail.com)  
+**Wilwigo Inc.**
+[**support@wilwigo.com**](mailto:support@wilwigo.com)
 **Ontario, Canada**
 
-**Version:** L1-T-1.5  
-**Effective date:** 2026-08-23
+**Version:** L1-T-1.6
+**Effective date:** 2026-08-29
