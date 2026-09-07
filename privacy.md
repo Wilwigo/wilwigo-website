@@ -7,7 +7,7 @@ permalink: /privacy/
 
 **Operator:** Wilwigo Inc.
 **Product:** Wilwigo
-**Version:** L1-P-1.8
+**Version:** L1-P-1.9
 **Effective date:** 2026-09-07
 
 ## 1. About this Privacy Notice
@@ -26,7 +26,7 @@ Wilwigo does **not** use your device GPS. Your Wilwigo location is inferred from
 
 Your **accepted friends** may see your home city and country, city-level presence, trips you choose to share with friends, related overlap information, and any optional supported social profile links you add.
 
-Other signed-in Wilwigo participants may see your **home city** to help with people discovery and search, subject to Wilwigo's account-visibility, blocking and current legal-consent requirements. Being signed in does not by itself permit another participant to receive your home country, precise home-base place identifiers or coordinates, home-base history, inferred current, past or future city-level presence, trips, overlap information or optional social profile links.
+Other signed-in Wilwigo participants may see your **home city and country** to help with people discovery and search, subject to Wilwigo's account-visibility, blocking and current legal-consent requirements. Being signed in does not by itself permit another participant to receive your precise home-base place identifiers or coordinates, home-base history, inferred current, past or future city-level presence, trips, overlap information or optional social profile links.
 
 ### Hidden stays
 
@@ -108,7 +108,7 @@ Wilwigo uses personal information to:
 - operate your profile;
 - maintain your home base and trips;
 - connect you with friends;
-- help signed-in participants discover and search for other participants by home city;
+- help signed-in participants discover and search for other participants by home city and country;
 - apply friendship, blocking and visibility choices;
 - infer city-level presence from the information you enter;
 - calculate and display Catches and other overlaps;
@@ -134,9 +134,9 @@ Hidden stays are not disclosed as described above.
 
 ### Other signed-in participants
 
-Other signed-in Wilwigo participants may receive your home city for people discovery and search, subject to account-visibility, blocking and current legal-consent requirements.
+Other signed-in Wilwigo participants may receive your home city and country for people discovery and search, subject to account-visibility, blocking and current legal-consent requirements.
 
-Your home country remains accepted-friend-only. Other signed-in participants are not permitted to receive precise home-base place identifiers or coordinates, home-base history, inferred current, past or future city-level presence, trips, overlap information or optional social profile links merely because they are signed in.
+Other signed-in participants are not permitted to receive precise home-base place identifiers or coordinates, home-base history, inferred current, past or future city-level presence, trips, overlap information or optional social profile links merely because they are signed in.
 
 ### Service providers
 
@@ -163,9 +163,9 @@ Wilwigo does not use device GPS in this private alpha.
 
 The city-level presence shown in Wilwigo is derived from the home base and trips entered into the service.
 
-Home-base information needed to operate that system may include place information and coordinates. Your precise home-base place identifiers, coordinates and history are not shown to other participants through home-city discovery.
+Home-base information needed to operate that system may include place information and coordinates. Your precise home-base place identifiers, coordinates and history are not shown to other participants through home-base discovery.
 
-Your accepted friends may see your home city and country and other permitted city-level information. Other signed-in participants may see your home city for people discovery and search, subject to the safeguards described in this Notice, but your home country remains accepted-friend-only.
+Your accepted friends may see your home city and country and other permitted city-level information. Other signed-in participants may also see your home city and country for people discovery and search, subject to the safeguards described in this Notice.
 
 Wilwigo location information can be incomplete, outdated or intentionally approximate—for example when you use a Hidden stay—and should never be treated as verified physical location.
 
@@ -271,5 +271,5 @@ Questions, access or correction requests, deletion requests and privacy complain
 
 If your concern is not resolved, you may have the right to make a complaint to the **Office of the Privacy Commissioner of Canada**.
 
-**Version:** L1-P-1.8
+**Version:** L1-P-1.9
 **Effective date:** 2026-09-07
