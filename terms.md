@@ -7,7 +7,7 @@ permalink: /terms/
 
 **Operator:** Wilwigo Inc.
 **Product:** Wilwigo
-**Version:** L1-T-1.8
+**Version:** L1-T-1.9
 **Effective date:** 2026-09-07
 
 ## 1. Agreement
@@ -55,7 +55,7 @@ You are responsible for the profile, home base, trips and other information you 
 
 Your accepted friends may see information that Wilwigo makes friend-visible, including your home city and country and trips you choose to share with friends.
 
-Other signed-in Wilwigo participants may see your home city to help with people discovery and search, subject to Wilwigo's account-visibility, blocking and current legal-consent requirements. They are not permitted to receive your home country, precise home-base place identifiers or coordinates, home-base history, inferred current, past or future city-level presence, trips, overlap information or optional social profile links merely because they are signed in.
+Other signed-in Wilwigo participants may see your home city and country to help with people discovery and search, subject to Wilwigo's account-visibility, blocking and current legal-consent requirements. They are not permitted to receive your precise home-base place identifiers or coordinates, home-base history, inferred current, past or future city-level presence, trips, overlap information or optional social profile links merely because they are signed in.
 
 Wilwigo's location information is based on the home base and trips entered into the service. It is not proof of anyone's actual physical location.
 
@@ -235,5 +235,5 @@ Questions about these Terms or Wilwigo may be sent to:
 [**support@wilwigo.com**](mailto:support@wilwigo.com)
 **Ontario, Canada**
 
-**Version:** L1-T-1.8
+**Version:** L1-T-1.9
 **Effective date:** 2026-09-07
