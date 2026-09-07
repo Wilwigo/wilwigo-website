@@ -7,8 +7,8 @@ permalink: /terms/
 
 **Operator:** Wilwigo Inc.
 **Product:** Wilwigo
-**Version:** L1-T-1.6
-**Effective date:** 2026-08-29
+**Version:** L1-T-1.8
+**Effective date:** 2026-09-07
 
 ## 1. Agreement
 
@@ -55,6 +55,8 @@ You are responsible for the profile, home base, trips and other information you 
 
 Your accepted friends may see information that Wilwigo makes friend-visible, including your home city and country and trips you choose to share with friends.
 
+Other signed-in Wilwigo participants may see your home city to help with people discovery and search, subject to Wilwigo's account-visibility, blocking and current legal-consent requirements. They are not permitted to receive your home country, precise home-base place identifiers or coordinates, home-base history, inferred current, past or future city-level presence, trips, overlap information or optional social profile links merely because they are signed in.
+
 Wilwigo's location information is based on the home base and trips entered into the service. It is not proof of anyone's actual physical location.
 
 ### Hidden stays
@@ -64,6 +66,18 @@ A Hidden stay remains visible to you but is not disclosed to your friends.
 For friend-facing location and overlap features, Wilwigo ignores a Hidden stay. This means that, unless another Friends-visible stay applies, Wilwigo may represent you to friends as being at home even while you are physically away.
 
 Do not rely on another person's apparent home or travel status in Wilwigo as proof of where that person actually is.
+
+### Optional social profile links
+
+Wilwigo may let you add optional profile identifiers for supported external social platforms. These social profile links are visible only to your accepted friends.
+
+The supported platforms are Instagram, LinkedIn, X, TikTok, Snapchat, Facebook, Threads, YouTube and Bluesky. Wilwigo does not accept arbitrary websites, link aggregators, URL shorteners or redirects through this feature. You provide a platform-specific profile identifier and Wilwigo constructs the applicable supported-platform profile link.
+
+You are responsible for the profile identifier you add and for having the right to link to that profile. You must not use a Wilwigo social profile link to direct another person to malware, fraud, unlawful sexual content, sexual services, sexual exploitation, non-consensual sexual content, sexual content involving minors, or other unlawful content.
+
+External social platforms are independent services. Wilwigo does not scrape, import, embed, preview, review or endorse the content of a linked profile, and the external service's own terms and privacy practices apply when you leave Wilwigo.
+
+You may change or remove your social profile links at any time. Wilwigo may remove or restrict a social profile link or account when reasonably necessary to enforce these Terms, protect participants or respond to a report. Concerns about a social profile link may be reported to **support@wilwigo.com**.
 
 More information about how location and trip information is processed and shared is provided in the Privacy Notice.
 
@@ -96,6 +110,7 @@ You must not use Wilwigo to:
 - access another person's account or private information without permission;
 - circumvent authentication, friendship, blocking, privacy or visibility controls;
 - scrape, systematically collect, sell or republish participant information;
+- use a social profile link to direct another person to a malicious, deceptive or prohibited destination;
 - upload malicious code or interfere with the operation or security of Wilwigo;
 - probe, scan or test Wilwigo for security vulnerabilities without prior authorization;
 - use automated systems to access Wilwigo in a manner that places unreasonable load on the service; or
@@ -220,5 +235,5 @@ Questions about these Terms or Wilwigo may be sent to:
 [**support@wilwigo.com**](mailto:support@wilwigo.com)
 **Ontario, Canada**
 
-**Version:** L1-T-1.6
-**Effective date:** 2026-08-29
+**Version:** L1-T-1.8
+**Effective date:** 2026-09-07
