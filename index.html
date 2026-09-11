@@ -143,13 +143,13 @@
     }
     .hero-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 34px; }
 
-    .phone-stage {
+    .product-stage {
       position: relative;
       min-height: 570px;
       display: grid;
       place-items: center;
     }
-    .phone-stage::before {
+    .product-stage::before {
       content: "";
       position: absolute;
       width: 430px;
@@ -158,107 +158,23 @@
       background: radial-gradient(circle, rgba(135,206,235,.34), rgba(135,206,235,.06) 55%, transparent 72%);
       filter: blur(1px);
     }
-
-    .phone {
+    .product-screens {
       position: relative;
       z-index: 1;
-      width: min(365px, 88vw);
-      border: 10px solid #24313a;
-      border-radius: 42px;
-      background: #fff;
-      box-shadow: 0 30px 70px rgba(31, 79, 120, .24);
-      overflow: hidden;
-    }
-    .phone-top {
-      width: 112px;
-      height: 25px;
-      margin: -1px auto 0;
-      border-radius: 0 0 17px 17px;
-      background: #24313a;
-    }
-    .app-screen {
-      min-height: 500px;
-      background: linear-gradient(#d9f2fc 0, #eef9fd 24%, #fff 45%);
-      padding: 17px 15px 20px;
-    }
-    .app-wordmark {
-      color: var(--wilwi);
-      font-weight: 850;
-      letter-spacing: -.04em;
-      font-size: 19px;
-      margin: 3px 4px 22px;
-    }
-    .app-wordmark span { color: #55bfe8; }
-    .screen-kicker {
-      margin: 0 4px 8px;
-      color: #52677b;
-      font-size: 13px;
-      font-weight: 800;
-    }
-    .app-card {
-      border: 1px solid rgba(31,79,120,.10);
-      border-radius: 22px;
-      background: rgba(255,255,255,.96);
-      box-shadow: 0 9px 28px rgba(31,79,120,.09);
-      padding: 18px;
-      margin-bottom: 12px;
-    }
-    .app-card-title {
-      color: #52677b;
-      font-size: 14px;
-      line-height: 20px;
-      font-weight: 800;
-      margin-bottom: 13px;
-    }
-    .city-row { display: flex; justify-content: space-between; gap: 14px; align-items: flex-start; }
-    .city-name { font-size: 24px; font-weight: 820; letter-spacing: -.035em; }
-    .city-country { color: var(--muted); font-size: 13px; margin-top: 4px; }
-    .date-pill {
-      border-radius: 999px;
-      background: #f2f3f5;
-      color: #4a4a4a;
-      padding: 7px 10px;
-      font-size: 11px;
-      font-weight: 800;
-      white-space: nowrap;
-    }
-    .overlap-line {
-      margin-top: 18px;
-      display: flex;
-      gap: 12px;
+      width: min(520px, 100%);
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 14px;
       align-items: center;
-      color: #41515b;
-      font-size: 13px;
-      line-height: 1.4;
     }
-    .avatars { display: flex; padding-left: 8px; flex-shrink: 0; }
-    .avatar {
-      width: 35px;
-      height: 35px;
-      margin-left: -8px;
-      border: 2px solid #fff;
-      border-radius: 50%;
-      display: grid;
-      place-items: center;
-      color: #fff;
-      font-size: 10px;
-      font-weight: 850;
-      background: var(--wilwi);
+    .product-screen {
+      display: block;
+      width: 100%;
+      height: auto;
+      filter: drop-shadow(0 20px 34px rgba(31, 79, 120, .18));
     }
-    .avatar:nth-child(2) { background: #3f8cae; }
-    .avatar:nth-child(3) { background: #77b8cf; }
-    .mini-row {
-      display: grid;
-      grid-template-columns: 1fr auto;
-      gap: 12px;
-      padding: 11px 0;
-      border-top: 1px solid #edf2f5;
-      font-size: 13px;
-    }
-    .mini-row:first-of-type { border-top: 0; }
-    .mini-row strong { display: block; font-size: 14px; margin-bottom: 3px; }
-    .mini-row span { color: var(--muted); }
-    .status { color: var(--green) !important; font-weight: 800; align-self: center; }
+    .product-screen:first-child { transform: translateY(-18px); }
+    .product-screen:last-child { transform: translateY(18px); }
 
     .section { padding: 108px 0; }
     .section + .section { border-top: 1px solid var(--line); }
@@ -424,7 +340,8 @@
       .hero, .founder-wrap, .apps-grid { grid-template-columns: 1fr; }
       .hero { gap: 26px; padding: 54px 0 82px; }
       .hero > div:first-child { max-width: 760px; }
-      .phone-stage { min-height: 540px; }
+      .product-stage { min-height: 540px; }
+      .product-screens { width: min(540px, 100%); }
       .feature-grid { grid-template-columns: 1fr; }
       .founder-wrap { gap: 34px; }
     }
@@ -439,8 +356,10 @@
       .hero-copy { font-size: 17px; }
       .hero-actions { display: grid; }
       .hero-actions .button { width: 100%; }
-      .phone-stage { min-height: auto; padding: 22px 0 0; }
-      .phone { width: min(350px, 96%); }
+      .product-stage { min-height: auto; padding: 22px 0 0; }
+      .product-stage::before { width: 320px; height: 320px; }
+      .product-screens { gap: 8px; }
+      .product-screen:first-child, .product-screen:last-child { transform: none; }
       .section { padding: 80px 0; }
       .section-heading { margin-bottom: 36px; }
       .feature-card { padding: 25px; }
@@ -480,36 +399,10 @@
           </div>
         </div>
 
-        <div class="phone-stage" aria-label="Illustrative Wilwigo product view showing a trip and friend overlaps">
-          <div class="phone">
-            <div class="phone-top"></div>
-            <div class="app-screen">
-              <div class="app-wordmark">WILWI<span>GO</span></div>
-              <div class="screen-kicker">EVENTS</div>
-              <div class="app-card">
-                <div class="app-card-title">Your trip</div>
-                <div class="city-row">
-                  <div>
-                    <div class="city-name">Lisbon</div>
-                    <div class="city-country">Portugal</div>
-                  </div>
-                  <div class="date-pill">Oct 8-12</div>
-                </div>
-                <div class="overlap-line">
-                  <div class="avatars" aria-hidden="true">
-                    <div class="avatar">AM</div>
-                    <div class="avatar">JL</div>
-                    <div class="avatar">+2</div>
-                  </div>
-                  <div><strong>4 friends overlap</strong><br />with your time in Lisbon</div>
-                </div>
-              </div>
-              <div class="app-card">
-                <div class="app-card-title">What’s happening</div>
-                <div class="mini-row"><div><strong>Amelia arrives</strong><span>Oct 9 · Lisbon</span></div><span class="status">Overlap</span></div>
-                <div class="mini-row"><div><strong>Jon is visiting</strong><span>Oct 10-11 · Lisbon</span></div><span class="status">Overlap</span></div>
-              </div>
-            </div>
+        <div class="product-stage" aria-label="Real Wilwigo product screens showing Events and the Trip planner">
+          <div class="product-screens">
+            <img class="product-screen" src="assets/wilwigo-events.webp" width="260" height="578" alt="Wilwigo Events screen showing a Mexico City trip, friends nearby, and friends' travel activity" decoding="async" />
+            <img class="product-screen" src="assets/wilwigo-trips.webp" width="260" height="578" alt="Wilwigo Trip planner and My trips screen showing confirmed and private travel plans" decoding="async" />
           </div>
         </div>
       </section>
