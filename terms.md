@@ -8,7 +8,7 @@ permalink: /terms/
 **Exploitant / Operator :** Wilwigo Inc.  
 **Produit / Product :** Wilwigo  
 **Version :** L1-T-2.0  
-**Date d’entrée en vigueur / Effective date :** À fixer lors de la mise en vigueur / Pending coordinated cutover
+**Date d’entrée en vigueur / Effective date :** 2026-09-13
 
 [Français](#français) · [English](#english)
 
@@ -211,7 +211,7 @@ Questions au sujet des présentes Conditions :
 **Ontario, Canada**
 
 **Version :** L1-T-2.0  
-**Date d’entrée en vigueur :** À fixer lors de la mise en vigueur
+**Date d’entrée en vigueur :** 2026-09-13
 
 ---
 
@@ -409,4 +409,4 @@ Questions about these Terms:
 **Ontario, Canada**
 
 **Version:** L1-T-2.0  
-**Effective date:** Pending coordinated cutover
+**Effective date:** 2026-09-13
