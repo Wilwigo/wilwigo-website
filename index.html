@@ -92,6 +92,12 @@
       background: linear-gradient(135deg, var(--wilwi), #198ab9);
       box-shadow: 0 11px 25px rgba(31, 79, 120, .22);
     }
+    .button-secondary {
+      color: var(--wilwi);
+      background: #fff;
+      border: 1px solid rgba(31,79,120,.20);
+      box-shadow: 0 8px 20px rgba(31, 79, 120, .08);
+    }
     .button:disabled { cursor: default; opacity: .62; transform: none; }
 
     .hero {
@@ -263,7 +269,7 @@
     .apps-copy p { margin: 18px 0 0; color: var(--muted); font-size: 17px; line-height: 1.65; }
     .platform-row {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(2, 1fr);
       gap: 14px;
       height: 100%;
       align-items: center;
@@ -395,7 +401,8 @@
           <h1>Where your plans meet your people.</h1>
           <p class="hero-copy">Add your trips, see when friends will be in the same city, and turn overlapping plans into chances to meet.</p>
           <div class="hero-actions">
-            <a class="button button-primary" data-capacity-cta href="https://wilwigo--first-tester-alpha.expo.app/" rel="noopener">Join early access</a>
+            <a class="button button-primary" data-capacity-cta href="https://wilwigo--first-tester-alpha.expo.app/" rel="noopener">Open Wilwigo</a>
+            <a class="button button-secondary" data-capacity-cta data-install-cta href="https://wilwigo--first-tester-alpha.expo.app/install-wilwigo" rel="noopener">Install Wilwigo</a>
           </div>
         </div>
 
@@ -457,32 +464,23 @@
   <section class="section">
     <div class="shell apps-grid">
       <div class="apps-copy">
-        <div class="eyebrow">Web now · native next</div>
-        <h2>Wilwigo is already here.</h2>
-        <p>Early access runs on the web today. Native iPhone and Android apps are in development.</p>
+        <div class="eyebrow">On your phone</div>
+        <h2>Keep Wilwigo on your Home Screen.</h2>
+        <p>Install Wilwigo from your phone for one-tap access. You can also keep using it in your browser.</p>
       </div>
-      <div class="platform-card" aria-label="Wilwigo platforms">
+      <div class="platform-card" aria-label="Ways to use Wilwigo">
         <div class="platform-row">
-          <div class="platform" aria-label="App Store app in development" title="App Store app in development">
+          <div class="platform" aria-label="Wilwigo on your Home Screen" title="Wilwigo on your Home Screen">
             <div>
-              <svg viewBox="0 0 48 48" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M17 35 24 13l7 22"></path>
-                <path d="M19 29h10"></path>
-                <path d="M13 35h22"></path>
+              <svg viewBox="0 0 48 48" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="12" y="5" width="24" height="38" rx="5"></rect>
+                <path d="M19 32 24 27l5 5"></path>
+                <path d="M24 27v10"></path>
               </svg>
-              <div class="platform-label">App Store</div>
+              <div class="platform-label">Home Screen</div>
             </div>
           </div>
-          <div class="platform" aria-label="Google Play app in development" title="Google Play app in development">
-            <div>
-              <svg viewBox="0 0 48 48" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round">
-                <path d="M12 8 37 24 12 40Z"></path>
-                <path d="m12 8 16 16-16 16"></path>
-              </svg>
-              <div class="platform-label">Google Play</div>
-            </div>
-          </div>
-          <a class="platform platform-web" href="https://wilwigo--first-tester-alpha.expo.app/" rel="noopener" aria-label="Open Wilwigo web app" title="Open Wilwigo web app">
+          <a class="platform platform-web" href="https://wilwigo--first-tester-alpha.expo.app/" rel="noopener" aria-label="Open Wilwigo in your browser" title="Open Wilwigo in your browser">
             <div>
               <svg viewBox="0 0 48 48" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
                 <rect x="5" y="8" width="38" height="31" rx="5"></rect>
@@ -491,7 +489,7 @@
                 <circle cx="15" cy="12" r="1"></circle>
                 <path d="M17 27h14M24 21v12"></path>
               </svg>
-              <div class="platform-label">Web app</div>
+              <div class="platform-label">Browser</div>
             </div>
           </a>
         </div>
@@ -541,6 +539,7 @@
     (() => {
       const EARLY_ACCESS_URL = 'https://devfcuvtnrbmujawzykw.supabase.co/functions/v1/early-access';
       const APP_URL = 'https://wilwigo--first-tester-alpha.expo.app/';
+      const INSTALL_URL = `${APP_URL}install-wilwigo`;
       const capacityCtas = Array.from(document.querySelectorAll('[data-capacity-cta]'));
       const capacityEyebrow = document.querySelector('[data-capacity-eyebrow]');
       const waitlistSection = document.querySelector('[data-waitlist-section]');
@@ -636,7 +635,8 @@
       });
 
       capacityCtas.forEach((cta) => {
-        if (cta.getAttribute('href') !== '#waitlist') cta.setAttribute('href', APP_URL);
+        if (cta.getAttribute('href') === '#waitlist') return;
+        cta.setAttribute('href', cta.hasAttribute('data-install-cta') ? INSTALL_URL : APP_URL);
       });
     })();
   </script>
