@@ -8,7 +8,7 @@ permalink: /privacy/
 **Responsable / Operator :** Wilwigo Inc.  
 **Produit / Product :** Wilwigo  
 **Version :** L1-P-2.0  
-**Date d’entrée en vigueur / Effective date :** À fixer lors de la mise en vigueur / Pending coordinated cutover
+**Date d’entrée en vigueur / Effective date :** 2026-09-13
 
 [Français](#français) · [English](#english)
 
@@ -205,7 +205,7 @@ Pour toute question, demande ou plainte concernant la confidentialité :
 Vous pouvez également vous adresser à l’autorité de protection de la vie privée compétente, notamment au **Commissariat à la protection de la vie privée du Canada** ou, lorsque le droit québécois s’applique, à la **Commission d’accès à l’information du Québec**.
 
 **Version :** L1-P-2.0  
-**Date d’entrée en vigueur :** À fixer lors de la mise en vigueur
+**Date d’entrée en vigueur :** 2026-09-13
 
 ---
 
@@ -397,4 +397,4 @@ For privacy questions, requests, or complaints:
 You may also contact the privacy authority that applies to your concern, including the **Office of the Privacy Commissioner of Canada** or, where Quebec law applies, the **Commission d’accès à l’information du Québec**.
 
 **Version:** L1-P-2.0  
-**Effective date:** Pending coordinated cutover
+**Effective date:** 2026-09-13
