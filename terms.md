@@ -8,13 +8,12 @@ permalink: /terms/
 **Exploitant / Operator :** Wilwigo Inc.  
 **Produit / Product :** Wilwigo  
 **Version :** L1-T-2.0  
-**Date d’entrée en vigueur / Effective date :** 2026-09-12
+**Date d’entrée en vigueur / Effective date :** À fixer lors de la mise en vigueur / Pending coordinated cutover
 
 [Français](#français) · [English](#english)
 
-Les versions française et anglaise sont fournies ensemble dans le présent document et visent à exprimer le même accord. Lorsqu’une loi applicable accorde priorité à une version ou permet d’invoquer l’une ou l’autre, cette loi s’applique.
-
-The French and English texts are provided together in this document and are intended to express the same agreement. If applicable law gives priority to one version or permits either version to be relied on, that law applies.
+Les versions française et anglaise expriment les mêmes Conditions.  
+The French and English versions express the same Terms.
 
 ---
 
@@ -22,81 +21,77 @@ The French and English texts are provided together in this document and are inte
 
 ## 1. Votre accord avec Wilwigo
 
-Les présentes Conditions d’utilisation (« Conditions ») constituent un accord entre vous et **Wilwigo Inc.** (« Wilwigo », « nous », « notre » ou « nos ») concernant votre accès à Wilwigo et votre utilisation du service.
+Les présentes Conditions d’utilisation (les **« Conditions »**) constituent un accord entre vous et **Wilwigo Inc.** (« Wilwigo », « nous », « notre » ou « nos ») régissant votre accès à Wilwigo et votre utilisation de Wilwigo, y compris l’application en accès anticipé, le site Web de Wilwigo et les fonctions connexes qui renvoient aux présentes Conditions (le **« Service »**).
 
-En cochant la case d’acceptation et en choisissant **Accepter et continuer**, vous acceptez les présentes Conditions. La Politique de confidentialité de Wilwigo explique séparément comment nous traitons les renseignements personnels.
+En cochant la case d’acceptation et en choisissant **Accepter et continuer**, vous acceptez les présentes Conditions. La Politique de confidentialité de Wilwigo explique séparément comment nous traitons les renseignements personnels. Si vous n’acceptez pas les présentes Conditions, n’utilisez pas le Service.
 
-Si vous n’acceptez pas les présentes Conditions, n’utilisez pas Wilwigo.
-
-Wilwigo est un service en accès anticipé. Il aide des amis à partager des projets de voyage à l’échelle d’une ville et à repérer les moments où leurs projets se chevauchent (« Overlaps »). Wilwigo reflète les renseignements fournis par les participants; il ne confirme pas leur emplacement physique réel.
+Wilwigo aide des amis à partager des projets de voyage à l’échelle d’une ville et à repérer les moments où leurs projets se chevauchent (les **« Overlaps »**). Wilwigo reflète les renseignements fournis par les participants et les déductions qui en découlent; il ne confirme pas l’emplacement physique réel d’une personne.
 
 ## 2. Admissibilité et compte
 
-Vous pouvez utiliser Wilwigo seulement si :
+Vous pouvez utiliser le Service seulement si :
 
 - vous avez au moins 18 ans;
-- vous êtes légalement autorisé à utiliser Wilwigo et à conclure les présentes Conditions là où vous vous trouvez;
-- vous utilisez Wilwigo à des fins personnelles et non commerciales; et
+- vous êtes légalement autorisé à utiliser le Service et à conclure les présentes Conditions là où vous vous trouvez;
+- vous utilisez le Service pour votre propre usage et ne revendez pas l’accès à Wilwigo ni ne l’exploitez commercialement; et
 - les renseignements que vous fournissez à votre sujet sont raisonnablement exacts.
 
-Votre compte est personnel. Vous ne pouvez pas le vendre, le céder, partager son accès ni permettre à une autre personne de l’utiliser.
+Votre compte est personnel. Vous ne pouvez pas le vendre ou le transférer, en partager l’accès ni permettre à une autre personne de l’utiliser comme le sien.
 
-Vous êtes responsable de protéger l’accès à votre compte et à votre appareil. Ne transmettez jamais à Wilwigo votre mot de passe Google, jeton d’authentification, code de récupération ou autre identifiant de connexion. Si vous croyez qu’une personne a accédé à votre compte sans autorisation, communiquez avec nous rapidement.
-
-Wilwigo Inc. est une société fédérale canadienne enregistrée en Ontario. Les droits et recours impératifs que la loi applicable vous accorde continuent de s’appliquer et ne sont pas écartés par les présentes Conditions.
+Protégez votre compte et vos identifiants de connexion. N’envoyez pas votre mot de passe Google, vos codes de récupération ou d’autres identifiants de connexion confidentiels au soutien de Wilwigo ou à d’autres personnes. Si vous croyez qu’une personne a accédé à votre compte sans autorisation, communiquez rapidement avec nous.
 
 ## 3. Profils, amis, voyages et visibilité
 
-Vous êtes responsable des renseignements que vous ajoutez à votre profil, de votre ville de résidence, de vos voyages, de vos liens de profils sociaux et des autres renseignements que vous fournissez, ainsi que de leur exactitude raisonnable.
+Vous êtes responsable des renseignements que vous ajoutez à votre profil, de votre ville de résidence, de vos voyages, de vos liens de profils sociaux et des autres renseignements que vous ajoutez à Wilwigo.
 
 ### Découverte et amis
 
-Selon les règles de visibilité, de blocage et d’acceptation juridique de Wilwigo :
+Sous réserve des contrôles applicables au compte, au blocage, à l’admissibilité et à la visibilité, les autres participants connectés peuvent voir votre **ville et pays de résidence** afin de vous trouver ou de vous découvrir dans Wilwigo.
 
-- d’autres participants admissibles et connectés peuvent voir votre **ville et pays de résidence** afin de vous trouver ou de vous découvrir dans Wilwigo;
-- vos amis réciproquement acceptés peuvent voir les renseignements que Wilwigo rend visibles aux amis, notamment votre présence prévue à l’échelle d’une ville, les voyages que vous choisissez de partager avec vos amis, les Overlaps correspondants et les liens de profils sociaux que vous ajoutez; et
-- le simple fait d’être connecté à Wilwigo ne permet pas à un non-ami de recevoir vos identifiants ou coordonnées précis de résidence, l’historique de votre résidence, votre présence prévue passée, actuelle ou future, vos voyages, vos Overlaps ou vos liens de profils sociaux.
+Les amis que vous avez acceptés et qui vous ont accepté peuvent aussi voir les renseignements que Wilwigo rend visibles aux amis, notamment votre présence prévue à l’échelle d’une ville, les voyages que vous choisissez de partager avec vos amis, les Overlaps correspondants et les liens de profils sociaux facultatifs que vous ajoutez.
 
-Une relation d’amitié, un blocage, la visibilité d’un compte ou d’un voyage, ou une autre règle du produit peut modifier ce qu’une personne peut voir. Le fait qu’une personne ait déjà vu un renseignement ne garantit pas qu’elle continuera d’y avoir accès.
+Un utilisateur qui n’est pas un ami accepté ne peut pas accéder à vos identifiants ou coordonnées précis de résidence, à votre historique de résidence, à votre présence prévue à l’échelle d’une ville, à vos voyages, à vos Overlaps ni à vos liens de profils sociaux.
+
+Modifier un réglage de visibilité, retirer un ami ou bloquer une personne modifie son accès dans Wilwigo. Cela ne peut pas effacer les renseignements ou les copies que cette personne a déjà reçus, enregistrés ou partagés à l’extérieur de Wilwigo.
 
 ### Voyages masqués
 
-Un voyage **Masqué** reste visible pour vous, mais n’est pas communiqué à vos amis. Pour les fonctions de présence et d’Overlap visibles aux amis, Wilwigo ignore ce voyage. Par conséquent, sauf si un autre voyage visible aux amis s’applique, Wilwigo peut vous présenter à vos amis comme étant à votre ville de résidence alors que vous êtes physiquement ailleurs.
+Un voyage **Masqué** reste visible pour vous, mais n’est pas partagé avec vos amis dans Wilwigo. Wilwigo ignore un voyage Masqué lorsqu’il calcule la présence prévue et les Overlaps visibles aux amis. Par conséquent, sauf si un autre voyage visible aux amis s’applique, Wilwigo peut montrer votre ville de résidence à vos amis même lorsque vous êtes physiquement ailleurs.
 
 ### Emplacement et sécurité
 
-Wilwigo n’utilise pas le GPS de votre appareil pour déterminer la présence à l’échelle d’une ville dans le service actuel. La présence affichée est déduite de votre ville de résidence et des voyages enregistrés dans Wilwigo.
+Dans le Service actuel, Wilwigo n’utilise pas le GPS de votre appareil pour déterminer votre présence à l’échelle d’une ville. La présence prévue est déduite de votre ville de résidence et des voyages enregistrés dans Wilwigo.
 
-Wilwigo n’est **pas** un service de localisation en temps réel, de surveillance, de navigation, de sécurité ou d’urgence. Ne vous fiez pas à Wilwigo pour localiser quelqu’un, déterminer si une personne est en sécurité, vérifier qu’elle est réellement dans une ville ou prendre une décision urgente liée à un voyage ou à la sécurité.
+Wilwigo n’est pas un service de localisation en temps réel, de surveillance, de navigation, de sécurité ou d’urgence. Ne vous fiez pas à Wilwigo pour localiser quelqu’un, déterminer si une personne est en sécurité, confirmer qu’elle se trouve réellement dans une ville ou prendre une décision urgente liée à un voyage ou à la sécurité.
 
 ### Liens de profils sociaux
 
-Wilwigo peut vous permettre d’ajouter des identifiants pour certaines plateformes sociales prises en charge. Wilwigo construit alors le lien officiel correspondant. Ces liens sont visibles seulement à vos amis acceptés selon les règles de visibilité et de blocage applicables.
+Wilwigo peut vous permettre d’ajouter un identifiant pour une plateforme sociale externe prise en charge. Wilwigo construit alors le lien correspondant vers cette plateforme et le rend accessible seulement à vos amis acceptés, selon les règles de visibilité et de blocage applicables.
 
-Vous devez avoir le droit d’utiliser l’identifiant que vous fournissez. Vous ne pouvez pas utiliser cette fonction pour diriger une personne vers un contenu malveillant, frauduleux, illégal ou exploitant autrui. Les plateformes externes sont des services indépendants. Lorsque vous ouvrez un lien, vous quittez Wilwigo et les conditions et pratiques de confidentialité de la plateforme externe s’appliquent.
-
-Wilwigo ne récupère pas, n’intègre pas et ne prévisualise pas automatiquement le contenu d’un profil social externe dans le cadre de cette fonction.
+Vous devez avoir le droit d’utiliser tout identifiant que vous fournissez. Wilwigo ne vérifie pas qu’un profil externe vous appartient. Lorsque vous ouvrez un lien vers un profil externe, vous quittez Wilwigo et les conditions et pratiques de confidentialité du service externe s’appliquent.
 
 ### Invitations
 
-Les liens d’invitation peuvent être partagés à l’extérieur de Wilwigo et peuvent être retransmis par leurs destinataires. Un lien d’invitation facilite l’accès ou la connexion à Wilwigo; à lui seul, il ne donne pas accès aux renseignements privés d’un compte.
+Les liens d’invitation peuvent être partagés à l’extérieur de Wilwigo et retransmis par leurs destinataires. L’utilisation d’une invitation peut envoyer une demande d’amitié selon les contrôles habituels de Wilwigo; elle ne crée pas une amitié acceptée, ne donne pas accès aux renseignements privés d’un compte et ne contourne pas les règles de blocage ou de visibilité.
 
 ## 4. Contenu que vous fournissez
 
 Vous conservez les droits de propriété que vous détenez sur le contenu que vous fournissez à Wilwigo.
 
-Vous accordez à Wilwigo une licence non exclusive et sans redevance permettant d’héberger, stocker, copier, traiter, transmettre et afficher ce contenu **uniquement dans la mesure raisonnablement nécessaire** pour :
+Vous accordez à Wilwigo une licence mondiale, non exclusive et sans redevance permettant d’héberger, stocker, copier, transmettre, afficher et traiter ou formater techniquement ce contenu uniquement dans la mesure raisonnablement nécessaire pour :
 
-- fournir Wilwigo et appliquer vos choix de visibilité;
-- maintenir, sécuriser, soutenir et dépanner le service;
-- permettre à nos fournisseurs de services d’exécuter les fonctions nécessaires pour notre compte; et
+- fournir le Service et appliquer vos choix de visibilité;
+- maintenir, sécuriser, soutenir et dépanner le Service;
+- permettre aux fournisseurs de services agissant pour le compte de Wilwigo d’exécuter ces mêmes fonctions nécessaires; et
 - respecter la loi applicable et les exigences juridiques valides.
 
-Cette licence ne donne pas à Wilwigo un droit général d’utiliser votre contenu à des fins publicitaires, promotionnelles ou d’entraînement de modèles d’intelligence artificielle. Elle dure seulement aussi longtemps que cela est raisonnablement nécessaire aux fins ci-dessus, sous réserve des pratiques de conservation et de suppression décrites dans la Politique de confidentialité.
+Les fournisseurs de services agissant pour le compte de Wilwigo peuvent exercer ces droits seulement dans la mesure nécessaire pour fournir leurs services à Wilwigo et sous réserve des exigences applicables en matière de confidentialité et de contrat.
 
-Vous devez avoir le droit de fournir tout contenu que vous ajoutez à Wilwigo.
+Cette licence n’autorise pas Wilwigo à utiliser votre contenu à des fins publicitaires ou promotionnelles sans rapport avec le Service. Lorsqu’un contenu est supprimé, la licence prend fin, sauf pour le traitement limité de copies conservées légalement pendant les périodes et aux fins décrites dans la Politique de confidentialité, notamment la rotation normale des sauvegardes ou une conservation documentée pour des raisons juridiques ou de sécurité. Ces copies conservées ne peuvent pas continuer d’être affichées aux autres participants.
 
-N’ajoutez pas de renseignements dont Wilwigo n’a pas besoin, notamment des mots de passe, codes d’accès ou de récupération, numéros de passeport ou de pièce d’identité, renseignements financiers ou médicaux, codes de réservation ou adresses précises d’hébergement.
+Vous devez détenir les droits et autorisations nécessaires pour fournir tout contenu que vous ajoutez à Wilwigo et permettre les utilisations décrites ci-dessus.
+
+Sauf si une fonction de Wilwigo le demande expressément, n’ajoutez pas de renseignements dont le Service n’a pas besoin, notamment des mots de passe, codes d’accès ou de récupération, numéros de passeport ou de pièce d’identité, renseignements financiers ou médicaux, codes de réservation ou adresses précises d’hébergement.
 
 ## 5. Utilisation acceptable, blocage et signalements
 
@@ -108,113 +103,94 @@ Vous ne pouvez pas utiliser Wilwigo pour :
 - tenter de déterminer ou de surveiller l’emplacement physique réel d’une personne en contournant le fonctionnement prévu de Wilwigo;
 - tenter de découvrir des renseignements qu’une autre personne a délibérément masqués;
 - accéder au compte ou aux renseignements privés d’une autre personne sans autorisation;
-- contourner l’authentification ou les contrôles d’amitié, de blocage, de confidentialité ou de visibilité;
-- extraire systématiquement, vendre, republier ou constituer une base de données des renseignements des participants;
-- transmettre ou diriger une personne vers du code malveillant, une fraude, du contenu illégal ou du contenu qui exploite sexuellement une personne ou implique l’exploitation sexuelle d’un mineur;
-- perturber le fonctionnement ou la sécurité de Wilwigo;
+- contourner les contrôles d’authentification, d’amitié, de blocage, de confidentialité ou de visibilité;
+- extraire systématiquement, recueillir, vendre ou republier les renseignements des participants, ou constituer une base de données de ces renseignements, sans autorisation;
+- téléverser du code malveillant ou diriger quelqu’un vers du code malveillant, une fraude, du contenu illégal ou du contenu qui exploite sexuellement une personne, y compris un mineur;
+- perturber le fonctionnement ou la sécurité du Service;
 - sonder, analyser ou tester Wilwigo à la recherche de vulnérabilités de sécurité sans autorisation préalable;
-- utiliser des systèmes automatisés d’une manière qui impose une charge déraisonnable au service; ou
+- utiliser des systèmes automatisés d’une manière qui impose une charge déraisonnable au Service; ou
 - aider une autre personne à faire ce qui précède.
 
-Vous restez responsable de vos interactions avec les autres participants.
+Vous restez responsable de vos interactions avec les autres participants. Wilwigo ne garantit pas l’identité, le comportement, les projets de voyage ni l’emplacement physique d’un autre participant.
 
-Vous pouvez bloquer d’autres participants au moyen des fonctions offertes par Wilwigo. Lorsqu’un mécanisme de signalement est offert dans le produit, vous pouvez l’utiliser; autrement, vous pouvez communiquer avec **support@wilwigo.com**. Wilwigo peut examiner un signalement et prendre des mesures proportionnées, mais ne promet pas de surveiller de façon proactive toutes les activités ou tous les liens externes.
+Vous pouvez bloquer d’autres participants au moyen des fonctions offertes par Wilwigo. Lorsqu’un mécanisme de signalement est offert dans le produit, vous pouvez l’utiliser; autrement, communiquez avec **support@wilwigo.com**. Wilwigo peut examiner les signalements et prendre des mesures proportionnées, mais ne promet pas de surveiller de façon proactive toutes les activités ou tous les liens externes.
 
-## 6. Protection du service, suspension et fin de participation
+## 6. Protection du Service, suspension et fin de participation
 
-Wilwigo peut retirer ou restreindre du contenu, limiter certaines fonctions, suspendre un compte ou mettre fin à une participation lorsque cela est raisonnablement nécessaire pour :
+Wilwigo peut retirer ou restreindre du contenu ou des liens, limiter certaines fonctions, suspendre un compte ou mettre fin à une participation lorsque cela est raisonnablement nécessaire pour :
 
 - appliquer les présentes Conditions;
-- protéger un participant, Wilwigo ou le service;
+- protéger un participant, Wilwigo ou le Service;
 - répondre à une utilisation abusive, une fraude ou un accès non autorisé soupçonné;
 - enquêter sur un problème de confidentialité ou de sécurité;
-- répondre à un signalement;
-- respecter la loi applicable ou une exigence juridique valide; ou
-- interrompre ou modifier matériellement le service en accès anticipé.
+- répondre à un signalement; ou
+- respecter la loi applicable ou une exigence juridique valide.
 
-Lorsque cela est raisonnablement possible, nous vous aviserons d’une suspension ou d’une fermeture de compte, sauf si l’avis pourrait créer un risque de sécurité, de confidentialité, de sûreté ou de conformité juridique.
+Nous pouvons agir immédiatement lorsque cela est raisonnablement nécessaire pour protéger les participants ou le Service. Lorsque cela est raisonnablement possible, nous vous aviserons d’une suspension ou d’une fermeture de compte et en indiquerons brièvement la raison, sauf si cela pouvait créer un risque de sécurité, de confidentialité, de sûreté ou de conformité juridique. Vous pouvez communiquer avec le soutien si vous croyez qu’une erreur a été commise.
 
-Une suspension ou une fermeture d’accès ne détermine pas à elle seule la conservation ou la suppression des renseignements personnels. La Politique de confidentialité et le processus de suppression de compte s’appliquent séparément.
+La suspension ou la perte d’accès ne détermine pas à elle seule la conservation ou la suppression des renseignements personnels. L’article 11 et la Politique de confidentialité s’appliquent séparément.
 
-## 7. Services tiers et liens externes
+## 7. Fournisseurs de services et services tiers indépendants
 
-Wilwigo dépend de fournisseurs tiers pour certaines fonctions, notamment l’authentification, l’hébergement et le stockage, les services de recherche de lieux, les images de voyage, la livraison de l’application et les communications opérationnelles.
+Wilwigo utilise des fournisseurs de services pour certaines fonctions, notamment l’authentification, l’hébergement et le stockage, les services de recherche de lieux, les images de voyage, la livraison de l’application et du site Web et les communications opérationnelles. La Politique de confidentialité explique plus en détail le traitement de renseignements personnels associé à ces fournisseurs.
 
-Lorsque vous interagissez directement avec un service tiers — par exemple Google lors de l’authentification, Pexels lorsque des images sont fournies, ou une plateforme sociale externe lorsque vous ouvrez un lien — les conditions et pratiques de confidentialité de ce service peuvent également s’appliquer.
+Certains services tiers avec lesquels vous interagissez directement, notamment Google lors de la connexion ou une plateforme sociale externe lorsque vous ouvrez un lien de profil, ont leurs propres conditions et pratiques de confidentialité.
 
-Wilwigo n’est pas responsable du contenu ou des pratiques propres à un service externe que nous ne contrôlons pas. Rien dans le présent article ne limite une responsabilité de Wilwigo qui ne peut pas légalement être exclue.
+Wilwigo n’est pas responsable du contenu ou des pratiques de services tiers indépendants qu’il ne contrôle pas.
 
 ## 8. Communications
 
-Wilwigo peut vous envoyer les communications raisonnablement nécessaires pour administrer votre compte ou le service, notamment des avis de sécurité, de confidentialité, juridiques, de soutien ou de disponibilité.
+Wilwigo peut vous envoyer les communications raisonnablement nécessaires pour administrer votre compte ou le Service, notamment des avis de sécurité, de confidentialité, juridiques, de soutien ou de disponibilité du Service.
 
-Si vous activez séparément les courriels d’activité, Wilwigo peut vous envoyer les résumés fonctionnels décrits dans le produit. Vous pouvez les désactiver dans les paramètres applicables.
-
-Votre acceptation des présentes Conditions **ne constitue pas un consentement à recevoir des messages de marketing**. Si Wilwigo introduit des communications promotionnelles, celles-ci seront traitées séparément conformément à la loi applicable.
+Si vous activez séparément les courriels d’activité, Wilwigo peut vous envoyer les résumés fonctionnels décrits dans le produit. Vous pouvez désactiver ces courriels dans les réglages applicables.
 
 ## 9. Propriété intellectuelle et rétroaction
 
 À l’exception du contenu fourni par les participants, Wilwigo, son logiciel, ses conceptions, ses marques et ses autres éléments sont détenus par Wilwigo Inc. ou lui sont concédés sous licence et sont protégés par les lois applicables sur la propriété intellectuelle.
 
-Tant que vous êtes admissible à utiliser Wilwigo, nous vous accordons un droit personnel, limité, non exclusif et non transférable d’utiliser le service conformément aux présentes Conditions. Vous ne pouvez pas copier, vendre, concéder sous licence, distribuer ou exploiter commercialement Wilwigo ou son logiciel, sauf lorsque la loi applicable le permet.
+Tant que vous êtes admissible à utiliser Wilwigo, nous vous accordons un droit personnel, limité, non exclusif et non transférable d’utiliser le Service conformément aux présentes Conditions. Sauf au moyen des fonctions offertes par Wilwigo ou lorsque la loi applicable le permet, vous ne pouvez pas copier, reproduire, distribuer, vendre, concéder sous licence, louer ou exploiter commercialement Wilwigo ou son logiciel.
 
-Vous pouvez nous transmettre volontairement des commentaires ou suggestions. Sauf entente contraire, nous pouvons les utiliser pour développer ou améliorer Wilwigo sans paiement ni obligation envers vous. N’incluez pas dans une rétroaction des renseignements confidentiels appartenant à une autre personne.
+Nous pouvons utiliser les commentaires ou suggestions que vous nous envoyez pour améliorer Wilwigo sans vous verser de compensation.
 
-## 10. Accès anticipé, disponibilité et modifications du service
+## 10. Accès anticipé et modifications du Service
 
-Wilwigo est un service en développement offert en accès anticipé. Il peut contenir des erreurs, être incomplet, changer, devenir temporairement indisponible ou être interrompu. Des renseignements peuvent être retardés, inexacts ou perdus.
-
-Nous pouvons ajouter, modifier ou retirer des fonctions. Une modification du service qui entraîne une modification matérielle de vos droits ou obligations, du traitement de renseignements personnels ou de leur visibilité sera traitée conformément aux règles de modification juridique et de consentement applicables.
-
-Conservez votre propre copie de tout renseignement qui est important pour vous.
+Wilwigo est un service en accès anticipé. Nous pouvons ajouter, modifier ou retirer des fonctions, ou interrompre le Service.
 
 ## 11. Suppression de votre compte
 
 Vous pouvez cesser d’utiliser Wilwigo à tout moment. La déconnexion ou l’arrêt de l’utilisation ne supprime pas votre compte.
 
-Lorsque vous êtes connecté, vous pouvez demander la suppression de votre compte au moyen de **Supprimer le compte** dans Wilwigo. Après votre demande, Wilwigo supprimera votre compte et les renseignements actifs associés au compte dans un délai maximal de 30 jours, sous réserve des exceptions décrites dans la Politique de confidentialité.
+Vous pouvez demander la suppression de votre compte au moyen de **Supprimer le compte** dans Wilwigo ou en communiquant avec **privacy@wilwigo.com**. Nous pouvons vérifier votre identité avant de compléter la demande.
 
-Certains renseignements limités peuvent être conservés plus longtemps lorsque la loi l’exige ou le permet, pour des raisons de sécurité ou de reddition de comptes, ou temporairement dans des sauvegardes avant leur rotation normale. Si vous ne pouvez pas accéder à votre compte, vous pouvez utiliser la ressource publique de suppression de compte de Wilwigo ou communiquer avec nous.
+Après une demande de suppression valide, Wilwigo supprimera votre compte et les renseignements actifs associés au produit qui sont sous son contrôle dans un délai maximal de 30 jours, sous réserve des renseignements limités conservés comme décrit dans la Politique de confidentialité.
+
+Des copies résiduelles peuvent demeurer temporairement dans les sauvegardes ou les systèmes de fournisseurs jusqu’à leur rotation normale.
 
 ## 12. Exclusions de garanties
 
-Dans toute la mesure permise par la loi applicable, Wilwigo est fourni **« tel quel »** et **« selon disponibilité »**.
-
-Nous ne garantissons pas que Wilwigo sera toujours disponible, ininterrompu, exempt d’erreurs ou entièrement sécurisé, ni que les renseignements affichés seront toujours complets, exacts ou à jour. Nous ne garantissons pas que Wilwigo repérera chaque Overlap ni qu’il représentera correctement l’emplacement physique réel d’une personne.
-
-Rien dans les présentes Conditions n’exclut une garantie, un droit, un recours ou une obligation que la loi applicable ne permet pas d’exclure.
+Dans toute la mesure permise par la loi, Wilwigo est fourni **« tel quel »** et **« selon disponibilité »**, sans garantie ni condition, expresse ou implicite. Nous ne garantissons pas que le Service sera ininterrompu, exempt d’erreurs ou entièrement sécurisé, ni que les renseignements des participants, les voyages, les Overlaps ou la présence prévue seront complets, exacts, à jour ou refléteront l’emplacement physique réel d’une personne.
 
 ## 13. Limitation de responsabilité
 
-Dans toute la mesure permise par la loi applicable, Wilwigo Inc. n’est pas responsable des dommages indirects, accessoires, spéciaux, consécutifs, exemplaires ou punitifs, ni des pertes de profits, revenus, achalandage ou données découlant de votre utilisation de Wilwigo ou de votre incapacité à l’utiliser.
+Dans toute la mesure permise par la loi, Wilwigo Inc. n’est pas responsable des dommages indirects, accessoires, spéciaux ou consécutifs, ni des pertes de profits ou de données, découlant de Wilwigo ou des présentes Conditions ou s’y rapportant.
 
-Dans toute la mesure permise par la loi applicable, la responsabilité totale cumulative de Wilwigo Inc. découlant de Wilwigo ou des présentes Conditions ne dépassera pas **100 $ CA**.
+Dans la même mesure, la responsabilité totale de Wilwigo Inc. envers vous pour des dommages pécuniaires découlant de Wilwigo ou des présentes Conditions ou s’y rapportant est limitée à **100 $ CA**.
 
-Ces limitations ne s’appliquent pas lorsqu’une responsabilité ne peut légalement être exclue ou limitée. Notamment, lorsque le droit québécois s’applique, rien dans les présentes Conditions ne vise à exclure ou limiter une responsabilité qui ne peut l’être en cas de faute intentionnelle ou de faute lourde, ni à l’égard d’un préjudice corporel ou moral.
+Pour les consommateurs du Québec, le présent article s’applique seulement dans la mesure permise par le droit québécois.
 
 ## 14. Réclamations de tiers causées par votre conduite
 
-Dans la mesure permise par la loi, si votre utilisation illégale de Wilwigo, votre violation importante des présentes Conditions ou du contenu que vous fournissez sans détenir les droits nécessaires cause directement une réclamation d’un tiers contre Wilwigo Inc., vous êtes responsable des pertes et frais raisonnables résultant de cette réclamation.
-
-Cette responsabilité ne s’applique pas dans la mesure où la réclamation résulte des propres actes ou omissions de Wilwigo Inc.
+Dans la mesure permise par la loi, si votre utilisation illégale de Wilwigo, votre violation importante des présentes Conditions, votre violation des droits d’une autre personne ou du contenu que vous fournissez sans détenir les droits nécessaires cause directement une réclamation d’un tiers contre Wilwigo Inc., vous êtes responsable des pertes et frais externes raisonnables qui en résultent et qui sont définitivement accordés contre Wilwigo ou inclus dans un règlement que vous approuvez. Nous vous aviserons rapidement et vous donnerons une possibilité raisonnable de participer à la réponse.
 
 ## 15. Modification des présentes Conditions
 
-Chaque version des présentes Conditions porte un numéro de version et une date d’entrée en vigueur.
-
-Si nous apportons une modification importante aux présentes Conditions, nous vous présenterons la nouvelle version et vous demanderons de l’accepter à nouveau avant de continuer à participer lorsque cette nouvelle acceptation est requise.
-
-Des corrections mineures de forme, de typographie ou de clarification qui ne modifient pas substantiellement vos droits, obligations ou pratiques de confidentialité peuvent être apportées sans nouvelle acceptation.
+Chaque version des présentes Conditions porte un numéro de version et une date d’entrée en vigueur. Si nous apportons une modification importante, nous vous présenterons les Conditions mises à jour et vous demanderons de les accepter avant de continuer à utiliser Wilwigo. Nous pouvons corriger des erreurs de mise en forme, de typographie ou d’autres erreurs non substantielles sans demander une nouvelle acceptation.
 
 ## 16. Droit applicable et différends
 
-Les présentes Conditions sont régies par les lois de l’Ontario et les lois fédérales du Canada qui s’y appliquent.
+Sous réserve de ce qui est prévu ci-dessous pour les consommateurs du Québec et lorsque la loi impérative exige autrement, les présentes Conditions sont régies par les lois de l’Ontario et les lois fédérales du Canada applicables en Ontario, et vous et Wilwigo vous soumettez à la compétence exclusive des tribunaux de l’Ontario, Canada.
 
-Sous réserve de tout droit, recours ou compétence que la loi applicable ne permet pas de restreindre, les tribunaux compétents de l’Ontario peuvent connaître des différends relatifs à Wilwigo ou aux présentes Conditions.
-
-Les présentes Conditions n’imposent pas d’arbitrage obligatoire préalable au litige et ne visent pas à vous priver d’un droit de participer à un recours collectif lorsqu’un tel droit est protégé par la loi applicable.
-
-Si une loi impérative de protection du consommateur, de confidentialité ou autre applicable là où vous vivez ou utilisez Wilwigo vous accorde des droits, recours ou compétences qui ne peuvent légalement être écartés, ils continuent de s’appliquer.
+Si vous êtes un consommateur au Québec et que la Loi sur la protection du consommateur du Québec s’applique, les présentes Conditions sont régies par les lois du Québec et les lois fédérales du Canada applicables au Québec, et vous conservez les droits d’accès aux tribunaux prévus par le droit québécois.
 
 ## 17. Dispositions générales
 
@@ -222,20 +198,20 @@ Si une disposition des présentes Conditions est jugée invalide ou inexécutoir
 
 Le fait que Wilwigo n’applique pas une disposition dans une situation donnée ne constitue pas une renonciation à l’appliquer ultérieurement.
 
-Les titres servent uniquement à faciliter la lecture.
+Vous ne pouvez pas céder ou transférer les présentes Conditions ou votre compte sans le consentement écrit préalable de Wilwigo, sauf si la loi applicable prévoit autrement. Wilwigo peut céder les présentes Conditions dans le cadre d’une fusion, d’une réorganisation de société, d’une acquisition ou de la vente de la totalité ou de la quasi-totalité de l’entreprise ou des actifs liés au Service, sous réserve de la loi applicable.
 
-Les versions française et anglaise sont destinées à avoir le même sens. Toute règle impérative de la loi applicable concernant la langue du contrat, la priorité d’une version ou le droit d’invoquer une version demeure applicable.
+Les dispositions qui, par leur nature, sont destinées à continuer de s’appliquer après la fermeture de votre compte, notamment celles qui concernent la propriété, le contenu conservé légitimement, les exclusions de garanties, les limitations de responsabilité, les réclamations de tiers, les différends et les présentes dispositions générales, continuent de s’appliquer après la fin de participation ou la suppression du compte, dans la mesure applicable.
 
 ## 18. Nous joindre
 
 Questions au sujet des présentes Conditions :
 
 **Wilwigo Inc.**  
-[**support@wilwigo.com**](mailto:support@wilwigo.com)  
+**support@wilwigo.com**  
 **Ontario, Canada**
 
 **Version :** L1-T-2.0  
-**Date d’entrée en vigueur :** 2026-09-12
+**Date d’entrée en vigueur :** À fixer lors de la mise en vigueur
 
 ---
 
@@ -243,81 +219,77 @@ Questions au sujet des présentes Conditions :
 
 ## 1. Your agreement with Wilwigo
 
-These Terms of Use (the **“Terms”**) are an agreement between you and **Wilwigo Inc.** (“Wilwigo,” “we,” “us,” or “our”) governing your access to and use of Wilwigo.
+These Terms of Use (the **“Terms”**) are an agreement between you and **Wilwigo Inc.** (“Wilwigo,” “we,” “us,” or “our”) governing your access to and use of Wilwigo, including the early-access application, the Wilwigo website, and related features that link to these Terms (the **“Service”**).
 
-By selecting the acceptance checkbox and choosing **Agree and continue**, you agree to these Terms. The Wilwigo Privacy Notice separately explains how we handle personal information.
+By selecting the acceptance checkbox and choosing **Agree and continue**, you agree to these Terms. The Wilwigo Privacy Notice separately explains how we handle personal information. If you do not agree to these Terms, do not use the Service.
 
-If you do not agree to these Terms, do not use Wilwigo.
-
-Wilwigo is an early-access service that helps friends share planned city-level travel and notice when their plans overlap (**“Overlaps”**). Wilwigo reflects information supplied by participants; it does not verify anyone’s actual physical location.
+Wilwigo helps friends share planned city-level travel and notice when their plans overlap (**“Overlaps”**). Wilwigo reflects information supplied by participants and inferences made from that information; it does not verify anyone’s actual physical location.
 
 ## 2. Eligibility and your account
 
-You may use Wilwigo only if:
+You may use the Service only if:
 
 - you are at least 18 years old;
-- you are legally permitted to use Wilwigo and enter into these Terms where you are located;
-- you use Wilwigo for your own personal, non-commercial purposes; and
+- you are legally permitted to use the Service and enter into these Terms where you are located;
+- you use the Service for your own use and do not resell access to, or commercially exploit, Wilwigo; and
 - the information you provide about yourself is reasonably accurate.
 
-Your account is personal. You may not sell or transfer it, share access to it, or allow another person to use it.
+Your account is personal. You may not sell or transfer it, share access to it, or allow another person to use it as their own.
 
-You are responsible for protecting access to your account and device. Do not give Wilwigo your Google password, authentication token, recovery code, or other login credential. If you believe someone has accessed your account without permission, contact us promptly.
-
-Wilwigo Inc. is a Canadian federal corporation registered in Ontario. Any mandatory rights or remedies that applicable law gives you continue to apply and are not waived by these Terms.
+Keep your account and sign-in credentials secure. Do not send your Google password, recovery codes, or other confidential login credentials to Wilwigo support or to other people. If you believe someone has accessed your account without permission, contact us promptly.
 
 ## 3. Profiles, friends, trips, and visibility
 
-You are responsible for the information you add to your profile, home city, trips, social-profile links, and other information you provide, and for keeping it reasonably accurate.
+You are responsible for the information you add to your profile, home city, trips, social-profile links, and other information you add to Wilwigo.
 
 ### Discovery and friends
 
-Subject to Wilwigo’s visibility, blocking, and current legal-acceptance rules:
+Subject to applicable account, blocking, eligibility, and visibility controls, other signed-in participants may see your **home city and country** so they can find or discover you in Wilwigo.
 
-- other eligible signed-in participants may see your **home city and country** so they can find or discover you in Wilwigo;
-- your reciprocal accepted friends may see information Wilwigo makes friend-visible, including your planned city-level presence, trips you choose to share with friends, related Overlaps, and optional social-profile links you add; and
-- merely being signed in does not permit a nonfriend to receive your precise home-base identifiers or coordinates, home-base history, inferred past, current, or future presence, trips, Overlaps, or social-profile links.
+Friends you have accepted, and who have accepted you, may also see information Wilwigo makes Friends-visible, including your planned city-level presence, trips you choose to share with friends, related Overlaps, and optional social-profile links you add.
 
-A friendship, block, account or trip visibility setting, or other product rule may change what another person can see. Information that someone was permitted to see previously is not guaranteed to remain available to them.
+A user who is not an accepted friend cannot access your precise home-location identifiers or coordinates, home history, planned city-level presence, trips, Overlaps, or social-profile links.
+
+Changing a visibility setting, removing a friend, or blocking someone changes that person’s access through Wilwigo. It cannot erase information or copies that another person previously received, saved, or shared outside Wilwigo.
 
 ### Hidden trips
 
-A **Hidden** trip remains visible to you but is not disclosed to your friends. For friend-facing presence and Overlap features, Wilwigo ignores a Hidden trip. As a result, unless another Friends-visible trip applies, Wilwigo may show you to friends as being at home even while you are physically away.
+A **Hidden** trip remains visible to you but is not shared with your friends through Wilwigo. Wilwigo ignores a Hidden trip when calculating friend-facing planned presence and Overlaps. As a result, unless another Friends-visible trip applies, Wilwigo may show your home city to friends even while you are physically elsewhere.
 
 ### Location and safety
 
-Wilwigo does not use your device GPS to determine city-level presence in the current service. Presence shown in Wilwigo is derived from the home city and trips saved in Wilwigo.
+In the current Service, Wilwigo does not use your device GPS to determine your city-level presence. Planned presence is derived from the home city and trips saved in Wilwigo.
 
-Wilwigo is **not** a real-time location, monitoring, navigation, safety, or emergency service. Do not rely on Wilwigo to locate someone, determine whether someone is safe, verify that they are actually in a city, or make urgent travel or security decisions.
+Wilwigo is not a real-time location, monitoring, navigation, safety, or emergency service. Do not rely on Wilwigo to locate someone, determine whether someone is safe, verify that they are actually in a city, or make urgent travel or security decisions.
 
 ### Social-profile links
 
-Wilwigo may let you add identifiers for supported external social platforms. Wilwigo then constructs the corresponding official-platform link. These links are visible only to your accepted friends under the applicable visibility and blocking rules.
+Wilwigo may let you add an identifier for a supported external social platform. Wilwigo then constructs the corresponding platform link and makes it available only to your accepted friends under the applicable visibility and blocking rules.
 
-You must have the right to use any identifier you provide. You may not use this feature to direct another person to malware, fraud, unlawful content, or content that exploits another person. External platforms are independent services. When you open a link, you leave Wilwigo and the external platform’s own terms and privacy practices apply.
-
-Wilwigo does not automatically scrape, import, embed, or preview external social-profile content as part of this feature.
+You must have the right to use any identifier you provide. Wilwigo does not verify that an external profile belongs to you. When you open an external profile link, you leave Wilwigo and the external service’s own terms and privacy practices apply.
 
 ### Invitations
 
-Invite links may be shared outside Wilwigo and may be forwarded by their recipients. An invite link helps someone reach or connect with Wilwigo; by itself it does not give access to private account information.
+Invite links may be shared outside Wilwigo and forwarded by their recipients. Redeeming an invite can send a friend request through Wilwigo’s normal friendship controls; it does not create an accepted friendship, give access to private account information, or bypass blocking or visibility rules.
 
 ## 4. Content you provide
 
 You keep any ownership rights you have in content you provide to Wilwigo.
 
-You give Wilwigo a non-exclusive, royalty-free licence to host, store, copy, process, transmit, and display that content **only as reasonably necessary** to:
+You give Wilwigo a worldwide, non-exclusive, royalty-free licence to host, store, copy, transmit, display, and technically process or format that content only as reasonably necessary to:
 
-- provide Wilwigo and apply your visibility choices;
-- maintain, secure, support, and troubleshoot the service;
-- allow service providers to perform necessary functions on our behalf; and
+- provide the Service and apply your visibility choices;
+- maintain, secure, support, and troubleshoot the Service;
+- allow service providers acting on Wilwigo’s behalf to perform those same necessary functions; and
 - comply with applicable law and valid legal requirements.
 
-This licence does not give Wilwigo a general right to use your content for advertising, promotion, or artificial-intelligence model training. It lasts only as long as reasonably necessary for the purposes above, subject to the retention and deletion practices described in the Privacy Notice.
+Service providers acting on Wilwigo’s behalf may exercise these rights only as necessary to perform their services for Wilwigo and subject to applicable privacy and contractual requirements.
 
-You must have the right to provide any content you add to Wilwigo.
+This licence does not authorize Wilwigo to use your content for advertising or unrelated promotional purposes. When content is deleted, the licence ends except for limited processing of copies lawfully retained for the purposes and periods described in the Privacy Notice, such as ordinary backup rotation or documented legal or security retention. Those retained copies are not licensed for continued display to other participants.
 
-Do not add information Wilwigo does not need, such as passwords, access or recovery codes, passport or identity-document numbers, financial or health information, booking codes, or precise accommodation addresses.
+You must have the rights and permissions necessary to provide any content you add to Wilwigo and to allow the uses described above.
+
+Unless a Wilwigo feature specifically asks for it, do not submit information the Service does not need, such as passwords, access or recovery codes, passport or identity-document numbers, financial or health information, booking codes, or precise accommodation addresses.
 
 ## 5. Acceptable use, blocking, and reports
 
@@ -330,130 +302,111 @@ You must not use Wilwigo to:
 - attempt to uncover information another person deliberately hid;
 - access another person’s account or private information without permission;
 - circumvent authentication, friendship, blocking, privacy, or visibility controls;
-- scrape, systematically collect, sell, republish, or build a database of participant information;
-- upload or direct someone to malicious code, fraud, unlawful content, or sexually exploitative content, including sexual exploitation of a minor;
-- interfere with Wilwigo’s operation or security;
+- scrape, systematically collect, sell, republish, or build a database of participant information without authorization;
+- upload or direct someone to malicious code, fraud, unlawful content, or content that sexually exploits a person, including a minor;
+- interfere with the Service’s operation or security;
 - probe, scan, or test Wilwigo for security vulnerabilities without prior authorization;
-- use automated systems in a way that places unreasonable load on the service; or
+- use automated systems in a way that places an unreasonable load on the Service; or
 - assist another person in doing any of these things.
 
-You remain responsible for your interactions with other participants.
+You remain responsible for your interactions with other participants. Wilwigo does not guarantee another participant’s identity, conduct, travel plans, or physical location.
 
-You can block other participants using the controls Wilwigo provides. Where an in-product reporting control is available, you can use it; otherwise, contact **support@wilwigo.com**. Wilwigo may review reports and take proportionate action, but we do not promise to proactively monitor every activity or external link.
+You can block other participants using the controls Wilwigo provides. Where an in-product reporting control is available, you can use it; otherwise, contact **support@wilwigo.com**. Wilwigo may review reports and take proportionate action, but does not promise to proactively monitor every activity or external link.
 
-## 6. Protecting the service, suspension, and termination
+## 6. Protecting the Service, suspension, and termination
 
-Wilwigo may remove or restrict content, limit functionality, suspend an account, or end participation when reasonably necessary to:
+Wilwigo may remove or restrict content or links, limit functionality, suspend an account, or end participation when reasonably necessary to:
 
 - enforce these Terms;
-- protect a participant, Wilwigo, or the service;
+- protect a participant, Wilwigo, or the Service;
 - respond to suspected misuse, fraud, or unauthorized access;
 - investigate a privacy or security issue;
-- respond to a report;
-- comply with applicable law or a valid legal requirement; or
-- discontinue or materially change the early-access service.
+- respond to a report; or
+- comply with applicable law or a valid legal requirement.
 
-Where reasonably possible, we will provide notice of a suspension or account termination unless notice could create a security, privacy, safety, or legal risk.
+We may act immediately when reasonably necessary to protect participants or the Service. Where reasonably possible, we will notify you of a suspension or termination and briefly explain the reason, unless doing so could create a security, privacy, safety, or legal risk. You may contact support if you believe we made a mistake.
 
-Suspension or loss of access does not by itself determine how personal information is retained or deleted. The Privacy Notice and account-deletion process govern that separately.
+Suspension or loss of access does not by itself determine how personal information is retained or deleted. Section 11 and the Privacy Notice govern that separately.
 
-## 7. Third-party services and external links
+## 7. Service providers and independent third-party services
 
-Wilwigo relies on third-party providers for functions that may include authentication, hosting and storage, place services, trip imagery, app delivery, and operational communications.
+Wilwigo uses service providers for functions that may include authentication, hosting and storage, place services, trip imagery, application and website delivery, and operational communications. The Privacy Notice explains the related processing of personal information in more detail.
 
-When you interact directly with a third-party service — for example Google during authentication, Pexels when imagery is provided, or an external social platform when you open a profile link — that service’s own terms and privacy practices may also apply.
+Some third-party services you interact with directly, such as Google during sign-in or an external social platform when you open a profile link, have their own terms and privacy practices.
 
-Wilwigo is not responsible for content or practices of an external service we do not control. Nothing in this section limits any responsibility Wilwigo cannot lawfully exclude.
+Wilwigo is not responsible for the content or practices of independent third-party services that it does not control.
 
 ## 8. Communications
 
-Wilwigo may send communications reasonably necessary to administer your account or the service, including security, privacy, legal, support, and service-availability notices.
+Wilwigo may send communications reasonably necessary to administer your account or the Service, including security, privacy, legal, support, and service-availability notices.
 
 If you separately enable activity email, Wilwigo may send the functional summaries described in the product. You can disable those emails in the applicable settings.
-
-Your acceptance of these Terms **is not consent to receive marketing messages**. If Wilwigo introduces promotional communications, they will be handled separately in accordance with applicable law.
 
 ## 9. Wilwigo intellectual property and feedback
 
 Except for content provided by participants, Wilwigo and its software, designs, branding, and other materials are owned by or licensed to Wilwigo Inc. and are protected by applicable intellectual-property laws.
 
-While you remain eligible to use Wilwigo, we give you a personal, limited, non-exclusive, non-transferable right to use the service in accordance with these Terms. You may not copy, sell, license, distribute, or commercially exploit Wilwigo or its software except as applicable law permits.
+While you remain eligible to use Wilwigo, we give you a personal, limited, non-exclusive, non-transferable right to use the Service in accordance with these Terms. Except through features Wilwigo provides or as applicable law permits, you may not copy, reproduce, distribute, sell, license, lease, or commercially exploit Wilwigo or its software.
 
-You may voluntarily provide feedback or suggestions. Unless we agree otherwise, we may use them to develop or improve Wilwigo without payment or obligation to you. Do not include another person’s confidential information in feedback.
+We may use feedback or suggestions you send us to improve Wilwigo without compensation to you.
 
-## 10. Early access, availability, and service changes
+## 10. Early access and Service changes
 
-Wilwigo is a developing service provided in early access. It may contain errors, be incomplete, change, become temporarily unavailable, or be discontinued. Information may be delayed, inaccurate, or lost.
-
-We may add, change, or remove features. A service change that materially changes your rights or obligations, the processing of personal information, or who can see it will be handled under the applicable legal-change and consent rules.
-
-Keep your own copy of information that is important to you.
+Wilwigo is an early-access service. We may add, change, or remove features, or discontinue the Service.
 
 ## 11. Deleting your account
 
 You may stop using Wilwigo at any time. Signing out or stopping use does not delete your account.
 
-While signed in, you may request deletion through **Delete account** in Wilwigo. After you submit the request, Wilwigo will delete your account and active account information within a maximum of 30 days, subject to the exceptions described in the Privacy Notice.
+You can request account deletion using **Delete account** in Wilwigo or by contacting **privacy@wilwigo.com**. We may verify your identity before completing the request.
 
-Some limited information may be retained longer where permitted or required by law, for security or accountability purposes, or temporarily in backups before ordinary rotation completes. If you cannot access your account, you can use Wilwigo’s public account-deletion resource or contact us.
+After a valid deletion request, Wilwigo will delete your account and active product information under its control within a maximum of 30 days, subject to limited information retained as described in the Privacy Notice.
+
+Residual copies may remain temporarily in backups or provider systems until their ordinary rotation completes.
 
 ## 12. Disclaimers
 
-To the maximum extent permitted by applicable law, Wilwigo is provided **“as is”** and **“as available.”**
-
-We do not guarantee that Wilwigo will always be available, uninterrupted, error-free, or completely secure, or that information shown in Wilwigo will always be complete, accurate, or current. We do not guarantee that Wilwigo will identify every Overlap or accurately represent anyone’s actual physical location.
-
-Nothing in these Terms excludes any warranty, right, remedy, or obligation that applicable law does not permit us to exclude.
+To the maximum extent permitted by law, Wilwigo is provided **“as is”** and **“as available”**, without warranties or conditions, express or implied. We do not guarantee that the Service will be uninterrupted, error-free, or completely secure, or that participant information, trips, Overlaps, or planned presence will be complete, accurate, current, or reflect anyone’s actual physical location.
 
 ## 13. Limitation of liability
 
-To the maximum extent permitted by applicable law, Wilwigo Inc. will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages, or for lost profits, revenues, goodwill, or data, arising from your use of or inability to use Wilwigo.
+To the maximum extent permitted by law, Wilwigo Inc. is not liable for indirect, incidental, special, or consequential damages, or for loss of profits or data, arising out of or relating to Wilwigo or these Terms.
 
-To the maximum extent permitted by applicable law, Wilwigo Inc.’s total aggregate liability arising from Wilwigo or these Terms will not exceed **CAD $100**.
+To the same extent, Wilwigo Inc.’s total liability to you for monetary damages arising out of or relating to Wilwigo or these Terms is limited to **CAD $100**.
 
-These limitations do not apply where liability cannot lawfully be excluded or limited. In particular, where Quebec law applies, nothing in these Terms is intended to exclude or limit liability that cannot be limited for intentional or gross fault, or for bodily or moral injury.
+For Quebec consumers, this Section applies only to the extent permitted by Quebec law.
 
 ## 14. Third-party claims caused by your conduct
 
-To the extent permitted by law, if your unlawful use of Wilwigo, your material breach of these Terms, or content you provide without the necessary rights directly causes a third-party claim against Wilwigo Inc., you are responsible for the reasonable losses and costs resulting from that claim.
-
-This responsibility does not apply to the extent a claim results from Wilwigo Inc.’s own acts or omissions.
+To the extent permitted by law, if your unlawful use of Wilwigo, material breach of these Terms, infringement of another person’s rights, or content you provide without the necessary rights directly causes a third-party claim against Wilwigo Inc., you are responsible for the reasonable losses and external costs resulting from that claim that are finally awarded against Wilwigo or included in a settlement you approve. We will promptly notify you and give you a reasonable opportunity to participate in the response.
 
 ## 15. Changes to these Terms
 
-Each version of these Terms has a version number and effective date.
-
-If we make a material change to these Terms, we will show you the updated version and ask you to accept it again before continuing to participate where renewed acceptance is required.
-
-Minor formatting, typographical, or clarifying changes that do not materially change your rights, obligations, or privacy practices may be made without renewed acceptance.
+Each version of these Terms has a version number and effective date. If we make a material change, we will present the updated Terms and ask you to accept them before continuing to use Wilwigo. We may correct formatting, typographical, or other non-substantive errors without renewed acceptance.
 
 ## 16. Governing law and disputes
 
-These Terms are governed by the laws of Ontario and the federal laws of Canada applicable in Ontario.
+Except as provided below for Quebec consumers and where mandatory law requires otherwise, these Terms are governed by the laws of Ontario and the federal laws of Canada applicable in Ontario, and you and Wilwigo submit to the exclusive jurisdiction of the courts of Ontario, Canada.
 
-Subject to any right, remedy, or jurisdiction that applicable law does not permit these Terms to restrict, courts of competent jurisdiction in Ontario may hear disputes relating to Wilwigo or these Terms.
-
-These Terms do not require mandatory pre-dispute arbitration and are not intended to prevent you from participating in a class proceeding where that right is protected by applicable law.
-
-If mandatory consumer, privacy, or other law where you live or use Wilwigo gives you rights, remedies, or jurisdiction that cannot lawfully be varied by these Terms, they continue to apply.
+If you are a consumer in Quebec and the Quebec Consumer Protection Act applies, these Terms are governed by the laws of Quebec and the federal laws of Canada applicable in Quebec, and you retain the court rights provided by Quebec law.
 
 ## 17. General
 
-If part of these Terms is found invalid or unenforceable, the remaining provisions continue to apply to the extent permitted by law.
+If any part of these Terms is found invalid or unenforceable, the remaining provisions continue to apply to the extent permitted by law.
 
 A failure by Wilwigo to enforce a provision on one occasion does not waive the right to enforce it later.
 
-Headings are for convenience only.
+You may not assign or transfer these Terms or your account without Wilwigo’s prior written consent, except where applicable law provides otherwise. Wilwigo may assign these Terms in connection with a merger, corporate reorganization, acquisition, or sale of all or substantially all of the business or assets relating to the Service, subject to applicable law.
 
-The French and English texts are intended to have the same meaning. Any mandatory rule of applicable law concerning the language of the contract, priority of a version, or the right to rely on a version continues to apply.
+Provisions that by their nature are intended to continue after your account closes—including provisions concerning ownership, legitimately retained content, disclaimers, limitations of liability, third-party claims, disputes, and these general terms—continue to apply after termination or account deletion to the extent applicable.
 
 ## 18. Contact
 
 Questions about these Terms:
 
 **Wilwigo Inc.**  
-[**support@wilwigo.com**](mailto:support@wilwigo.com)  
+**support@wilwigo.com**  
 **Ontario, Canada**
 
 **Version:** L1-T-2.0  
-**Effective date:** 2026-09-12
+**Effective date:** Pending coordinated cutover
