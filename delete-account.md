@@ -28,6 +28,12 @@ This page is available without signing in and explains how to request deletion o
 
 Nous pouvons prendre des mesures raisonnables pour vérifier que la demande provient du titulaire du compte. **N’envoyez pas** de mot de passe, de jeton d’authentification Google, de code de récupération, de clé API ou de document d’identité.
 
+## Demander la suppression de données sans fermer votre compte
+
+Vous pouvez également demander la suppression de certains renseignements personnels **tout en conservant votre compte Wilwigo**. Envoyez un courriel à **[privacy@wilwigo.com](mailto:privacy@wilwigo.com?subject=Wilwigo%20data%20deletion%20request)** avec l’objet **Wilwigo data deletion request**, en précisant les données à supprimer et que vous souhaitez conserver votre compte.
+
+Vous pouvez aussi supprimer certains éléments, comme vos voyages, directement dans l’application. Nous examinerons votre demande conformément aux droits applicables et aux données nécessaires au fonctionnement du compte. Certaines données peuvent être conservées pour les motifs et les durées décrits ci-dessous et dans notre [Politique de confidentialité](/privacy/). Nous vous expliquerons si la suppression demandée est incompatible avec le maintien du compte.
+
 ## Quelles données sont supprimées et dans quel délai ?
 
 Après une demande valide, Wilwigo supprime votre compte et les renseignements actifs du produit sous son contrôle **dans un délai maximal de 30 jours**. Cela comprend notamment les renseignements de profil, la ville de résidence et son historique, les voyages, les relations d’amitié, les demandes d’amitié, les notifications et les photos de profil personnalisées stockées par Wilwigo, sous réserve des exceptions expliquées ci-dessous.
@@ -53,6 +59,12 @@ Pour toute question, communiquez avec **privacy@wilwigo.com**.
 **Without access to the app:** Email **[privacy@wilwigo.com](mailto:privacy@wilwigo.com?subject=Wilwigo%20account%20deletion%20request)**, preferably from the email address associated with your Wilwigo account. Use the subject **Wilwigo account deletion request** and state that you want your Wilwigo account and associated data deleted.
 
 We may take reasonable steps to verify that the request comes from the account holder. **Do not send** your password, Google authentication token, recovery code, API key, or identity documents.
+
+## Request deletion of data while keeping your account
+
+You can also request deletion of certain personal information **without deleting your Wilwigo account**. Email **[privacy@wilwigo.com](mailto:privacy@wilwigo.com?subject=Wilwigo%20data%20deletion%20request)** with the subject **Wilwigo data deletion request**, identifying the data you want removed and stating that you want to keep your account.
+
+You can also delete some items, such as individual trips, directly in the app. We will review your request according to applicable privacy rights and the information necessary to operate the account. Some data may be retained for the reasons and periods described below and in our [Privacy Notice](/privacy/). We will explain if the requested deletion is incompatible with keeping the account.
 
 ## What is deleted, and when?
 
