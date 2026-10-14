@@ -6,12 +6,14 @@ permalink: /delete-account/
 
 # Supprimer votre compte Wilwigo / Delete your Wilwigo account
 
-**Application / App :** Wilwigo  
+**Application / App :** Wilwigo
+
 **Exploitant / Operator :** Wilwigo Inc.
 
 [Français](#français) · [English](#english)
 
-Cette page est accessible sans compte et explique comment demander la suppression de votre compte Wilwigo et des données qui y sont associées.  
+Cette page est accessible sans compte et explique comment demander la suppression de votre compte Wilwigo et des données qui y sont associées.
+
 This page is available without signing in and explains how to request deletion of your Wilwigo account and associated data.
 
 ---
