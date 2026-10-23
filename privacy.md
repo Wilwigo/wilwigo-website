@@ -68,7 +68,7 @@ Pour les profils sociaux pris en charge, Wilwigo utilise l’identifiant que vou
 
 ### Progression et préférences
 
-Wilwigo traite les états nécessaires à l’intégration et aux préférences du produit. Pour les réalisations Friends et Trips, Wilwigo conserve uniquement le nombre maximal admissible d’amis et de voyages atteint par votre compte. Cette progression ne conserve pas l’identité des amis ou des voyages, ni un historique de chaque seuil atteint.
+Wilwigo traite les états nécessaires à l’intégration et aux préférences du produit. Nous conservons les renseignements nécessaires pour afficher votre progression dans l’application.
 
 Certaines préférences et certains états d’intégration sont conservés uniquement dans le stockage local de votre appareil ou navigateur.
 
