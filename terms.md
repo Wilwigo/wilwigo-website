@@ -171,8 +171,6 @@ Dans toute la mesure permise par la loi, Wilwigo est fourni **« tel quel »** e
 
 Dans la mesure permise par la loi applicable, Wilwigo Inc. n’est pas responsable des pertes indirectes découlant de l’utilisation du Service. Rien dans les présentes Conditions ne limite les droits ni les recours auxquels vous ne pouvez légalement renoncer, notamment en vertu des lois de protection des consommateurs.
 
-
-
 ## 14. Modification des présentes Conditions
 
 Si nous apportons une modification importante, nous vous présenterons les Conditions mises à jour et vous demanderons de les accepter avant de continuer à utiliser Wilwigo. Nous pouvons corriger des erreurs de mise en forme, de typographie ou d’autres erreurs non substantielles sans demander une nouvelle acceptation.
@@ -189,7 +187,7 @@ Le fait que Wilwigo n’applique pas une disposition dans une situation donnée 
 
 Vous ne pouvez pas céder ou transférer les présentes Conditions ou votre compte sans le consentement écrit préalable de Wilwigo, sauf si la loi applicable prévoit autrement. Wilwigo peut céder les présentes Conditions dans le cadre d’une fusion, d’une réorganisation de société, d’une acquisition ou de la vente de la totalité ou de la quasi-totalité de l’entreprise ou des actifs liés au Service, sous réserve de la loi applicable.
 
-Les dispositions qui, par leur nature, sont destinées à continuer de s’appliquer après la fermeture de votre compte, notamment celles qui concernent la propriété, le contenu conservé légitimement, les exclusions de garanties, les limitations de responsabilité et les différends et les présentes dispositions générales, continuent de s’appliquer après la fin de participation ou la suppression du compte, dans la mesure applicable.
+Les dispositions qui, par leur nature, sont destinées à continuer de s’appliquer après la fermeture de votre compte, notamment celles qui concernent la propriété, le contenu conservé légitimement, les exclusions de garanties, les limitations de responsabilité et les différends, ainsi que les présentes dispositions générales, continuent de s’appliquer après la fin de participation ou la suppression du compte, dans la mesure applicable.
 
 ## 17. Nous joindre
 
@@ -360,8 +358,6 @@ To the maximum extent permitted by law, Wilwigo is provided **“as is”** and 
 ## 13. Limitation of liability
 
 To the extent permitted by applicable law, Wilwigo Inc. is not liable for indirect losses arising from use of the Service. Nothing in these Terms limits any right or remedy that cannot lawfully be excluded, including rights under consumer protection laws.
-
-
 
 ## 14. Changes to these Terms
 
