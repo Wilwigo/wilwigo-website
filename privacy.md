@@ -262,7 +262,7 @@ For supported social profiles, Wilwigo uses the identifier you provide to constr
 
 ### Progress and preferences
 
-Wilwigo processes state needed for onboarding and product preferences. For Friends and Trips achievements, Wilwigo stores only the highest qualifying friend and trip counts reached by your account. This progress record does not store the identities of friends or trips or a history of each threshold reached.
+Wilwigo processes state needed for onboarding and product preferences. We keep the information needed to show your in-app progress.
 
 Some preferences and onboarding state are stored only in local browser or device storage.
 
