@@ -8,7 +8,7 @@ permalink: /terms/
 **Exploitant / Operator :** Wilwigo Inc.  
 **Produit / Product :** Wilwigo  
 **Version :** L1-T-2.1  
-**Date d’entrée en vigueur / Effective date :** À confirmer avant publication
+**Date d’entrée en vigueur / Effective date :** 2026-10-24
 
 [Français](#français) · [English](#english)
 
