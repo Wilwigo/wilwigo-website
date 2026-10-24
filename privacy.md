@@ -204,7 +204,7 @@ Pour toute question, demande ou plainte concernant la confidentialité :
 Vous pouvez également vous adresser à l’autorité de protection de la vie privée compétente, notamment au **Commissariat à la protection de la vie privée du Canada** ou, lorsque le droit québécois s’applique, à la **Commission d’accès à l’information du Québec**.
 
 **Version :** L1-P-2.1  
-**Date d’entrée en vigueur :** À confirmer avant publication
+**Date d’entrée en vigueur :** 2026-10-24
 
 ---
 
@@ -398,4 +398,4 @@ For privacy questions, requests, or complaints:
 You may also contact the privacy authority that applies to your concern, including the **Office of the Privacy Commissioner of Canada** or, where Quebec law applies, the **Commission d’accès à l’information du Québec**.
 
 **Version:** L1-P-2.1  
-**Effective date:** To be confirmed before publication
+**Effective date:** 2026-10-24
