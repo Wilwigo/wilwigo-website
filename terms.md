@@ -198,7 +198,7 @@ Questions au sujet des présentes Conditions :
 **Ontario, Canada**
 
 **Version :** L1-T-2.1  
-**Date d’entrée en vigueur :** À confirmer avant publication
+**Date d’entrée en vigueur :** 2026-10-24
 
 ---
 
@@ -386,4 +386,4 @@ Questions about these Terms:
 **Ontario, Canada**
 
 **Version:** L1-T-2.1  
-**Effective date:** To be confirmed before publication
+**Effective date:** 2026-10-24
