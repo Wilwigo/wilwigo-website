@@ -7,13 +7,10 @@ permalink: /terms/
 
 **Exploitant / Operator :** Wilwigo Inc.  
 **Produit / Product :** Wilwigo  
-**Version :** L1-T-2.0  
-**Date d’entrée en vigueur / Effective date :** 2026-09-13
+**Version :** L1-T-2.1  
+**Date d’entrée en vigueur / Effective date :** 2026-10-24
 
 [Français](#français) · [English](#english)
-
-Les versions française et anglaise expriment les mêmes Conditions.  
-The French and English versions express the same Terms.
 
 ---
 
@@ -172,27 +169,17 @@ Dans toute la mesure permise par la loi, Wilwigo est fourni **« tel quel »** e
 
 ## 13. Limitation de responsabilité
 
-Dans toute la mesure permise par la loi, Wilwigo Inc. n’est pas responsable des dommages indirects, accessoires, spéciaux ou consécutifs, ni des pertes de profits ou de données, découlant de Wilwigo ou des présentes Conditions ou s’y rapportant.
+Dans la mesure permise par la loi applicable, Wilwigo Inc. n’est pas responsable des pertes indirectes découlant de l’utilisation du Service. Rien dans les présentes Conditions ne limite les droits ni les recours auxquels vous ne pouvez légalement renoncer, notamment en vertu des lois de protection des consommateurs.
 
-Dans la même mesure, la responsabilité totale de Wilwigo Inc. envers vous pour des dommages pécuniaires découlant de Wilwigo ou des présentes Conditions ou s’y rapportant est limitée à **100 $ CA**.
+## 14. Modification des présentes Conditions
 
-Pour les consommateurs du Québec, le présent article s’applique seulement dans la mesure permise par le droit québécois.
+Si nous apportons une modification importante, nous vous présenterons les Conditions mises à jour et vous demanderons de les accepter avant de continuer à utiliser Wilwigo. Nous pouvons corriger des erreurs de mise en forme, de typographie ou d’autres erreurs non substantielles sans demander une nouvelle acceptation.
 
-## 14. Réclamations de tiers causées par votre conduite
+## 15. Droit applicable et différends
 
-Dans la mesure permise par la loi, si votre utilisation illégale de Wilwigo, votre violation importante des présentes Conditions, votre violation des droits d’une autre personne ou du contenu que vous fournissez sans détenir les droits nécessaires cause directement une réclamation d’un tiers contre Wilwigo Inc., vous êtes responsable des pertes et frais externes raisonnables qui en résultent et qui sont définitivement accordés contre Wilwigo ou inclus dans un règlement que vous approuvez. Nous vous aviserons rapidement et vous donnerons une possibilité raisonnable de participer à la réponse.
+Les présentes Conditions sont régies par les lois de l’Ontario et les lois fédérales du Canada qui s’y appliquent, sous réserve des règles impératives de protection des consommateurs et des autres lois applicables. Rien dans les présentes Conditions ne vous prive du droit de saisir un tribunal compétent en vertu de la loi, notamment au Québec.
 
-## 15. Modification des présentes Conditions
-
-Chaque version des présentes Conditions porte un numéro de version et une date d’entrée en vigueur. Si nous apportons une modification importante, nous vous présenterons les Conditions mises à jour et vous demanderons de les accepter avant de continuer à utiliser Wilwigo. Nous pouvons corriger des erreurs de mise en forme, de typographie ou d’autres erreurs non substantielles sans demander une nouvelle acceptation.
-
-## 16. Droit applicable et différends
-
-Sous réserve de ce qui est prévu ci-dessous pour les consommateurs du Québec et lorsque la loi impérative exige autrement, les présentes Conditions sont régies par les lois de l’Ontario et les lois fédérales du Canada applicables en Ontario, et vous et Wilwigo vous soumettez à la compétence exclusive des tribunaux de l’Ontario, Canada.
-
-Si vous êtes un consommateur au Québec et que la Loi sur la protection du consommateur du Québec s’applique, les présentes Conditions sont régies par les lois du Québec et les lois fédérales du Canada applicables au Québec, et vous conservez les droits d’accès aux tribunaux prévus par le droit québécois.
-
-## 17. Dispositions générales
+## 16. Dispositions générales
 
 Si une disposition des présentes Conditions est jugée invalide ou inexécutoire, les autres dispositions demeurent applicables dans toute la mesure permise par la loi.
 
@@ -200,9 +187,9 @@ Le fait que Wilwigo n’applique pas une disposition dans une situation donnée 
 
 Vous ne pouvez pas céder ou transférer les présentes Conditions ou votre compte sans le consentement écrit préalable de Wilwigo, sauf si la loi applicable prévoit autrement. Wilwigo peut céder les présentes Conditions dans le cadre d’une fusion, d’une réorganisation de société, d’une acquisition ou de la vente de la totalité ou de la quasi-totalité de l’entreprise ou des actifs liés au Service, sous réserve de la loi applicable.
 
-Les dispositions qui, par leur nature, sont destinées à continuer de s’appliquer après la fermeture de votre compte, notamment celles qui concernent la propriété, le contenu conservé légitimement, les exclusions de garanties, les limitations de responsabilité, les réclamations de tiers, les différends et les présentes dispositions générales, continuent de s’appliquer après la fin de participation ou la suppression du compte, dans la mesure applicable.
+Les dispositions qui, par leur nature, sont destinées à continuer de s’appliquer après la fermeture de votre compte, notamment celles qui concernent la propriété, le contenu conservé légitimement, les exclusions de garanties, les limitations de responsabilité et les différends, ainsi que les présentes dispositions générales, continuent de s’appliquer après la fin de participation ou la suppression du compte, dans la mesure applicable.
 
-## 18. Nous joindre
+## 17. Nous joindre
 
 Questions au sujet des présentes Conditions :
 
@@ -210,8 +197,8 @@ Questions au sujet des présentes Conditions :
 **support@wilwigo.com**  
 **Ontario, Canada**
 
-**Version :** L1-T-2.0  
-**Date d’entrée en vigueur :** 2026-09-13
+**Version :** L1-T-2.1  
+**Date d’entrée en vigueur :** 2026-10-24
 
 ---
 
@@ -370,27 +357,17 @@ To the maximum extent permitted by law, Wilwigo is provided **“as is”** and 
 
 ## 13. Limitation of liability
 
-To the maximum extent permitted by law, Wilwigo Inc. is not liable for indirect, incidental, special, or consequential damages, or for loss of profits or data, arising out of or relating to Wilwigo or these Terms.
+To the extent permitted by applicable law, Wilwigo Inc. is not liable for indirect losses arising from use of the Service. Nothing in these Terms limits any right or remedy that cannot lawfully be excluded, including rights under consumer protection laws.
 
-To the same extent, Wilwigo Inc.’s total liability to you for monetary damages arising out of or relating to Wilwigo or these Terms is limited to **CAD $100**.
+## 14. Changes to these Terms
 
-For Quebec consumers, this Section applies only to the extent permitted by Quebec law.
+If we make a material change, we will present the updated Terms and ask you to accept them before continuing to use Wilwigo. We may correct formatting, typographical, or other non-substantive errors without renewed acceptance.
 
-## 14. Third-party claims caused by your conduct
+## 15. Governing law and disputes
 
-To the extent permitted by law, if your unlawful use of Wilwigo, material breach of these Terms, infringement of another person’s rights, or content you provide without the necessary rights directly causes a third-party claim against Wilwigo Inc., you are responsible for the reasonable losses and external costs resulting from that claim that are finally awarded against Wilwigo or included in a settlement you approve. We will promptly notify you and give you a reasonable opportunity to participate in the response.
+These Terms are governed by the laws of Ontario and the federal laws of Canada applicable there, subject to mandatory consumer protections and other applicable laws. Nothing in these Terms prevents you from bringing a claim before a court that has jurisdiction under applicable law, including in Quebec.
 
-## 15. Changes to these Terms
-
-Each version of these Terms has a version number and effective date. If we make a material change, we will present the updated Terms and ask you to accept them before continuing to use Wilwigo. We may correct formatting, typographical, or other non-substantive errors without renewed acceptance.
-
-## 16. Governing law and disputes
-
-Except as provided below for Quebec consumers and where mandatory law requires otherwise, these Terms are governed by the laws of Ontario and the federal laws of Canada applicable in Ontario, and you and Wilwigo submit to the exclusive jurisdiction of the courts of Ontario, Canada.
-
-If you are a consumer in Quebec and the Quebec Consumer Protection Act applies, these Terms are governed by the laws of Quebec and the federal laws of Canada applicable in Quebec, and you retain the court rights provided by Quebec law.
-
-## 17. General
+## 16. General
 
 If any part of these Terms is found invalid or unenforceable, the remaining provisions continue to apply to the extent permitted by law.
 
@@ -398,9 +375,9 @@ A failure by Wilwigo to enforce a provision on one occasion does not waive the r
 
 You may not assign or transfer these Terms or your account without Wilwigo’s prior written consent, except where applicable law provides otherwise. Wilwigo may assign these Terms in connection with a merger, corporate reorganization, acquisition, or sale of all or substantially all of the business or assets relating to the Service, subject to applicable law.
 
-Provisions that by their nature are intended to continue after your account closes—including provisions concerning ownership, legitimately retained content, disclaimers, limitations of liability, third-party claims, disputes, and these general terms—continue to apply after termination or account deletion to the extent applicable.
+Provisions that by their nature are intended to continue after your account closes—including provisions concerning ownership, legitimately retained content, disclaimers, limitations of liability, disputes, and these general terms—continue to apply after termination or account deletion to the extent applicable.
 
-## 18. Contact
+## 17. Contact
 
 Questions about these Terms:
 
@@ -408,5 +385,5 @@ Questions about these Terms:
 **support@wilwigo.com**  
 **Ontario, Canada**
 
-**Version:** L1-T-2.0  
-**Effective date:** 2026-09-13
+**Version:** L1-T-2.1  
+**Effective date:** 2026-10-24
