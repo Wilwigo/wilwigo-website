@@ -7,8 +7,8 @@ permalink: /terms/
 
 **Exploitant / Operator :** Wilwigo Inc.  
 **Produit / Product :** Wilwigo  
-**Version :** L1-T-2.1  
-**Date d’entrée en vigueur / Effective date :** 2026-10-24
+**Version :** L1-T-2.2  
+**Date d’entrée en vigueur / Effective date :** 2026-10-29
 
 [Français](#français) · [English](#english)
 
@@ -108,6 +108,8 @@ Vous ne pouvez pas utiliser Wilwigo pour :
 - utiliser des systèmes automatisés d’une manière qui impose une charge déraisonnable au Service; ou
 - aider une autre personne à faire ce qui précède.
 
+Les photos de profil ne doivent pas contenir de nudité, d’images sexuellement explicites ni de représentations graphiques de violence. Wilwigo peut rejeter ou retirer ces images.
+
 Vous restez responsable de vos interactions avec les autres participants. Wilwigo ne garantit pas l’identité, le comportement, les projets de voyage ni l’emplacement physique d’un autre participant.
 
 Vous pouvez bloquer d’autres participants au moyen des fonctions offertes par Wilwigo. Lorsqu’un mécanisme de signalement est offert dans le produit, vous pouvez l’utiliser; autrement, communiquez avec **support@wilwigo.com**. Wilwigo peut examiner les signalements et prendre des mesures proportionnées, mais ne promet pas de surveiller de façon proactive toutes les activités ou tous les liens externes.
@@ -197,8 +199,8 @@ Questions au sujet des présentes Conditions :
 **support@wilwigo.com**  
 **Ontario, Canada**
 
-**Version :** L1-T-2.1  
-**Date d’entrée en vigueur :** 2026-10-24
+**Version :** L1-T-2.2  
+**Date d’entrée en vigueur :** 2026-10-29
 
 ---
 
@@ -296,6 +298,8 @@ You must not use Wilwigo to:
 - use automated systems in a way that places an unreasonable load on the Service; or
 - assist another person in doing any of these things.
 
+Profile pictures must not contain nudity, sexually explicit imagery, or graphic depictions of violence. Wilwigo may reject or remove such images.
+
 You remain responsible for your interactions with other participants. Wilwigo does not guarantee another participant’s identity, conduct, travel plans, or physical location.
 
 You can block other participants using the controls Wilwigo provides. Where an in-product reporting control is available, you can use it; otherwise, contact **support@wilwigo.com**. Wilwigo may review reports and take proportionate action, but does not promise to proactively monitor every activity or external link.
@@ -385,5 +389,5 @@ Questions about these Terms:
 **support@wilwigo.com**  
 **Ontario, Canada**
 
-**Version:** L1-T-2.1  
-**Effective date:** 2026-10-24
+**Version:** L1-T-2.2  
+**Effective date:** 2026-10-29
