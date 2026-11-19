@@ -175,7 +175,7 @@ Vous pouvez demander la suppression de votre compte au moyen de **Supprimer le c
 
 Après une demande de suppression valide, Wilwigo supprimera votre compte et les renseignements actifs associés au produit qui sont sous son contrôle dans un délai maximal de 30 jours, sous réserve des renseignements limités conservés comme décrit dans la Politique de confidentialité.
 
-Des copies résiduelles peuvent demeurer temporairement dans les sauvegardes ou les systèmes de fournisseurs jusqu’à leur rotation normale.
+Certains renseignements peuvent être conservés uniquement aux fins et pendant les périodes décrites dans la Politique de confidentialité, notamment une preuve juridique limitée et des copies dans les sauvegardes ou les systèmes de fournisseurs. Ces copies ne peuvent pas continuer d’être affichées aux autres participants.
 
 ## 12. Exclusions de garanties
 
@@ -377,7 +377,7 @@ You can request account deletion using **Delete account** in Wilwigo or by conta
 
 After a valid deletion request, Wilwigo will delete your account and active product information under its control within a maximum of 30 days, subject to limited information retained as described in the Privacy Notice.
 
-Residual copies may remain temporarily in backups or provider systems until their ordinary rotation completes.
+Certain information may be retained only for the purposes and periods described in the Privacy Notice, including limited legal evidence and copies in backups or provider systems. Those copies must not continue to be displayed to other participants.
 
 ## 12. Disclaimers
 

@@ -56,8 +56,6 @@ Google peut fournir une adresse URL de photo de compte lors de la connexion; Wil
 
 Si vous choisissez de téléverser une photo de profil personnalisée, l’application la recadre et la réencode en JPEG. Elle est placée dans une file privée et doit être approuvée par une personne avant son affichage aux autres participants. Le téléversement est facultatif; Wilwigo ne procède pas à une reconnaissance faciale ni à la création d’un gabarit biométrique. Vous pouvez conserver jusqu’à cinq photos approuvées et avoir une seule demande d’examen en cours.
 
-**Ancien traitement par OpenAI :** avant la désactivation vérifiée du contrôle automatisé le 18 novembre 2026, les photos personnalisées soumises à ce processus pouvaient être transmises à OpenAI pour produire des catégories de modération consultatives avant l’examen humain obligatoire. Les nouveaux téléversements ne sont plus transmis à OpenAI par ce processus. Les anciens résultats limités et décisions d’examen peuvent subsister selon les règles de conservation ci-dessous. Ce changement ne constitue pas une preuve d’effacement de toutes les données historiques chez un fournisseur.
-
 ### Voyages
 
 Wilwigo traite la destination, les dates de début et de fin, l’état, la visibilité, les détails facultatifs et les renseignements liés à l’image choisie pour un voyage.
@@ -144,7 +142,7 @@ Vos amis acceptés peuvent voir les renseignements que vous rendez visibles aux 
 
 ### Fournisseurs de services
 
-**Supabase** fournit l’authentification, la base de données, les fonctions serveur et le stockage. **Google** fournit la connexion, les services de lieux, Workspace/Gmail et l’infrastructure Cloud; **Firebase** sert aux notifications Android. **Expo** fournit des services de construction et de livraison de l’application et, pour les clients concernés, de notifications. **Pexels** fournit les images de voyage à partir d’un contexte de ville limité. **GitHub Pages** héberge le site institutionnel. OpenAI est un ancien destinataire du processus de contrôle de photos décrit à la section 3.
+**Supabase** fournit l’authentification, la base de données, les fonctions serveur et le stockage. **Google** fournit la connexion, les services de lieux, Workspace/Gmail et l’infrastructure Cloud; **Firebase** sert aux notifications Android. **Expo** fournit des services de construction et de livraison de l’application et, pour les clients concernés, de notifications. **Pexels** fournit les images de voyage à partir d’un contexte de ville limité. **GitHub Pages** héberge le site institutionnel.
 
 Une recherche de lieux peut transmettre à Google le texte recherché, un identifiant de session de recherche et le lieu choisi. Les recherches d’images serveur vers Pexels n’incluent pas votre identité ni les dates de voyage; l’affichage direct d’une image externe peut toutefois transmettre à son hébergeur votre adresse IP et des métadonnées de requête. Il en va de même pour les images Google chargées à distance. Ouvrir un lien social ou externe vous conduit vers un service régi par ses propres conditions.
 
@@ -180,7 +178,7 @@ Wilwigo conserve les renseignements en fonction de leur utilité et de leur fina
 - les nombres maximaux utilisés pour la progression pendant que le compte est actif;
 - les renseignements de liste d’attente aussi longtemps qu’ils sont raisonnablement nécessaires à la gestion de l’accès anticipé ou jusqu’à une demande de suppression applicable;
 - les identifiants pseudonymisés de contrôle du débit pour une courte période; les entrées expirées deviennent actuellement admissibles à la suppression après environ une heure;
-- les octets JPEG de la file privée jusqu’à la finalisation de l’examen; la copie approuvée demeure dans la bibliothèque jusqu’à sa suppression ou celle du compte; les résultats historiques limités de modération et décisions sont conservés selon leur nécessité documentée de sécurité et de responsabilisation;
+- les octets JPEG de la file privée jusqu’à la finalisation de l’examen; la copie approuvée demeure dans la bibliothèque jusqu’à sa suppression ou celle du compte; les dossiers limités de modération et d’examen peuvent être conservés selon leur nécessité documentée de sécurité et de responsabilisation;
 - les jetons et identifiants de notification aussi longtemps que nécessaires à la livraison et à la sécurité;
 - les demandes de soutien et rétroactions aussi longtemps qu’elles sont raisonnablement nécessaires pour y répondre, assurer le suivi et conserver les preuves nécessaires; et
 - les copies de sauvegarde selon les cycles de rotation applicables.
@@ -191,7 +189,7 @@ Wilwigo peut conserver pendant **24 mois après la suppression du compte** une p
 
 Des renseignements limités liés à la sécurité, aux incidents, aux obligations juridiques ou aux fournisseurs peuvent être conservés plus longtemps lorsqu’un besoin documenté ou la loi le justifie. Si des données supprimées sont restaurées à partir d’une sauvegarde, la suppression doit être réappliquée avant leur retour à une utilisation active.
 
-Les enregistrements Android inactifs côté Wilwigo deviennent admissibles au nettoyage après **90 jours d’inactivité**; il ne s’agit pas d’une garantie d’effacement exactement au 90e jour. Firebase conserve l’identifiant d’installation jusqu’à une demande de suppression par API, puis prévoit le retrait de ses systèmes actifs et de sauvegarde dans un délai maximal de **180 jours** après cet appel. Une désactivation des notifications ou la suppression du seul jeton ne prouve pas la suppression de cet identifiant. Ces délais fournisseur sont distincts du délai de 30 jours pour les données actives du produit sous le contrôle de Wilwigo. Pour connaître l’état d’une demande particulière, contactez-nous.
+Lorsque vous supprimez votre compte dans l’application Android, celle-ci demande également la suppression de son identifiant d’installation Firebase. Firebase indique qu’il retire cet identifiant de ses systèmes actifs et de sauvegarde dans un délai maximal de **180 jours** après réception de la demande. Les enregistrements Android inactifs conservés par Wilwigo deviennent admissibles au nettoyage après **90 jours d’inactivité**. Ces périodes sont distinctes du délai maximal de 30 jours applicable aux renseignements actifs du produit sous le contrôle de Wilwigo.
 
 ## 10. Vos choix et demandes
 
@@ -284,8 +282,6 @@ Google may supply an account-picture URL at sign-in; Wilwigo automatically recor
 
 If you choose to upload a custom profile picture, the app crops and re-encodes it as JPEG. It enters a private queue and requires human approval before display to other participants. Uploading is optional; Wilwigo does not perform facial recognition or create a biometric template. You may retain up to five approved pictures and have one review in progress.
 
-**Historical OpenAI processing:** before automated screening was verifiably disabled on November 18, 2026, custom pictures submitted to that process could be sent to OpenAI to produce advisory moderation categories before mandatory human review. New uploads are no longer sent to OpenAI through this process. Limited historical results and review decisions may remain under the retention rules below. This change does not establish that every historical provider record has been erased.
-
 ### Trips
 
 Wilwigo processes a trip’s destination, start and end dates, status, visibility, optional details, and information associated with the selected trip image.
@@ -372,7 +368,7 @@ Your accepted friends may see information you make Friends-visible, including yo
 
 ### Service providers
 
-**Supabase** supplies authentication, database, server functions and storage. **Google** supplies sign-in, place services, Workspace/Gmail and Cloud infrastructure; **Firebase** supports Android notifications. **Expo** supplies app build/delivery services and notifications for applicable clients. **Pexels** supplies trip imagery from limited city context. **GitHub Pages** hosts the corporate website. OpenAI is a historical recipient of the picture-screening process described in section 3.
+**Supabase** supplies authentication, database, server functions and storage. **Google** supplies sign-in, place services, Workspace/Gmail and Cloud infrastructure; **Firebase** supports Android notifications. **Expo** supplies app build/delivery services and notifications for applicable clients. **Pexels** supplies trip imagery from limited city context. **GitHub Pages** hosts the corporate website.
 
 Place searches may send Google search text, a search-session identifier and the selected place. Server image searches sent to Pexels omit your identity and travel dates; directly displaying an external image may nevertheless send its host your IP address and request metadata. The same applies to remotely loaded Google images. Opening an external or social link takes you to a service governed by its own terms.
 
@@ -408,18 +404,18 @@ Wilwigo retains information according to its purpose and operational need:
 - achievement peak counts while the account is active;
 - waitlist information for as long as reasonably needed to operate early access or until an applicable deletion request;
 - pseudonymized rate-limit identifiers for a short period; expired entries currently become eligible for deletion after about one hour;
-- private-queue JPEG bytes until review is finalized; an approved copy remains in the library until you delete it or the account; limited historical moderation results and decisions remain according to documented security and accountability needs;
+- private-queue JPEG bytes until review is finalized; an approved copy remains in the library until you delete it or the account; limited moderation and review records may be retained according to documented security and accountability needs;
 - notification tokens and identifiers as long as needed for delivery and security;
 - support requests and feedback for as long as reasonably needed to respond, follow up, and maintain necessary records; and
 - backup copies according to applicable rotation cycles.
 
 After a valid deletion request, Wilwigo deletes the account and active product information under its control within a maximum of **30 days**.
 
-Wilwigo may retain for **24 months after account deletion** minimized evidence of legal acceptance and of the deletion request and completion. This evidence is not intended to contain the deleted account’s ordinary profile, trips, home history, friendships, or detailed notifications.
+Wilwigo may retain for **24 months after account deletion** minimized evidence of legal acceptance and of the deletion request and completion. This evidence must not contain the deleted account’s ordinary profile, trips, home history, friendships, or detailed notifications.
 
 Limited security, incident, legal, or provider records may be retained longer where a documented need or law justifies it. If deleted data is restored from backup, the deletion must be reapplied before that data returns to active use.
 
-Wilwigo-side inactive Android registrations become eligible for cleanup after **90 days of inactivity**; this is not a guarantee of erasure exactly on day 90. Firebase retains an installation ID until an API deletion request, then states removal from live and backup systems within **180 days** after that call. Turning notifications off or deleting only the token does not prove that the installation ID was deleted. These provider periods are distinct from the 30-day period for active product data under Wilwigo's control. Contact us about the status of a specific request.
+When you delete your account in the Android app, the app also requests deletion of its Firebase installation ID. Firebase states that it removes the ID from its live and backup systems within **180 days** of receiving the request. Inactive Android registrations held by Wilwigo become eligible for cleanup after **90 days of inactivity**. These periods are separate from the 30-day limit for active product information under Wilwigo’s control.
 
 ## 10. Your choices and requests
 
