@@ -5,10 +5,10 @@ permalink: /terms/
 ---
 # Conditions d’utilisation de Wilwigo / Wilwigo Terms of Use
 
-**Exploitant / Operator :** Wilwigo Inc.  
-**Produit / Product :** Wilwigo  
-**Version :** L1-T-2.2  
-**Date d’entrée en vigueur / Effective date :** 2026-10-29
+**Exploitant / Operator :** Wilwigo Inc.
+**Produit / Product :** Wilwigo
+**Version :** L1-T-2.3
+**Date d’entrée en vigueur / Effective date :** 2026-11-19
 
 [Français](#français) · [English](#english)
 
@@ -36,6 +36,16 @@ Vous pouvez utiliser le Service seulement si :
 Votre compte est personnel. Vous ne pouvez pas le vendre ou le transférer, en partager l’accès ni permettre à une autre personne de l’utiliser comme le sien.
 
 Protégez votre compte et vos identifiants de connexion. N’envoyez pas votre mot de passe Google, vos codes de récupération ou d’autres identifiants de connexion confidentiels au soutien de Wilwigo ou à d’autres personnes. Si vous croyez qu’une personne a accédé à votre compte sans autorisation, communiquez rapidement avec nous.
+
+### Disponibilité géographique initiale
+
+Le Service n’est pas proposé aux résidents habituels des pays et territoires ci-dessous. Cette restriction vise la résidence habituelle, non la nationalité. Pour Android, la disponibilité des téléchargements est gérée dans Google Play. Le pays du compte Google Play peut différer de la résidence; le téléchargement ne confirme pas à lui seul votre admissibilité. Les restrictions des présentes Conditions concernent également l’accès Web pendant sa disponibilité.
+
+La disponibilité initiale exclut les pays et territoires suivants : Albanie, Allemagne, Australie, Autriche, Belgique, Brésil, Bulgarie, Chine, Chypre, Corée du Nord, Croatie, Cuba, Danemark, Espagne, Estonie, Finlande, France, Ghana, Grèce, Guadeloupe, Guyane française, Hongrie, Indonésie, Iran, Irlande, Islande, Italie, Kazakhstan, La Réunion, Lettonie, Liechtenstein, Lituanie, Luxembourg, Macédoine du Nord, Malte, Martinique, Mayotte, Moldavie, Nigeria, Norvège, Ouganda, Ouzbékistan, Pays-Bas, Pologne, Portugal, Roumanie, Royaume-Uni, Russie, Rwanda, Saint-Martin, Serbie, Slovaquie, Slovénie, Suède, Syrie, Tanzanie, Tchéquie, Turquie, Viêt Nam, Zambie, Équateur, Îles Åland. La Crimée et les zones de Donetsk et de Louhansk non contrôlées par le gouvernement ukrainien sont également exclues; cette règle n’exclut pas le reste de l’Ukraine.
+
+Ne contournez pas les restrictions de distribution ou d’utilisation applicables et ne fournissez pas sciemment de renseignements inexacts. Vous êtes responsable de respecter les lois applicables à votre utilisation. Cela ne supprime ni les obligations légales de Wilwigo ni les droits qui ne peuvent pas être écartés par contrat. Un résident admissible peut utiliser le Service en voyage uniquement lorsque les lois et restrictions des fournisseurs applicables le permettent; la disponibilité n’est pas garantie à chaque destination.
+
+Wilwigo ne demande pas de déclaration de résidence distincte et n’effectue pas de blocage géographique automatique lors de la connexion. Aucun contrôle de nationalité, GPS ou localisation IP n’est ajouté à cette fin. L’accès anticipé reste limité à 1 000 comptes Auth au total; cette capacité ne réserve pas de place. Les voies de confidentialité, de soutien et de suppression restent accessibles. Nous pouvons limiter l’accès lorsque cela est nécessaire pour respecter une obligation légale ou une restriction d’un fournisseur; aucune suppression automatique de compte n’est prévue du seul fait d’un changement de résidence.
 
 ## 3. Profils, amis, voyages et visibilité
 
@@ -135,6 +145,8 @@ Wilwigo utilise des fournisseurs de services pour certaines fonctions, notamment
 
 Certains services tiers avec lesquels vous interagissez directement, notamment Google lors de la connexion ou une plateforme sociale externe lorsque vous ouvrez un lien de profil, ont leurs propres conditions et pratiques de confidentialité.
 
+L’utilisation des fonctions Google Maps est soumise aux [Conditions d’utilisation supplémentaires de Google Maps/Google Earth](https://maps.google.com/help/terms_maps/) et aux [Règles de confidentialité de Google](https://policies.google.com/privacy).
+
 Wilwigo n’est pas responsable du contenu ou des pratiques de services tiers indépendants qu’il ne contrôle pas.
 
 ## 8. Communications
@@ -195,12 +207,12 @@ Les dispositions qui, par leur nature, sont destinées à continuer de s’appli
 
 Questions au sujet des présentes Conditions :
 
-**Wilwigo Inc.**  
-**support@wilwigo.com**  
+**Wilwigo Inc.**
+**support@wilwigo.com**
 **Ontario, Canada**
 
-**Version :** L1-T-2.2  
-**Date d’entrée en vigueur :** 2026-10-29
+**Version :** L1-T-2.3
+**Date d’entrée en vigueur :** 2026-11-19
 
 ---
 
@@ -226,6 +238,16 @@ You may use the Service only if:
 Your account is personal. You may not sell or transfer it, share access to it, or allow another person to use it as their own.
 
 Keep your account and sign-in credentials secure. Do not send your Google password, recovery codes, or other confidential login credentials to Wilwigo support or to other people. If you believe someone has accessed your account without permission, contact us promptly.
+
+### Initial geographic availability
+
+The Service is not offered to usual residents of the countries and territories below. This restriction concerns usual residence, not nationality. For Android, download availability is managed through Google Play. A Google Play account country may differ from residence; downloading the app does not by itself confirm eligibility. These contractual restrictions also apply to web access while it remains available.
+
+Initial availability excludes these countries/territories: Albania, Australia, Austria, Belgium, Brazil, Bulgaria, China, Croatia, Cuba, Cyprus, Czechia, Denmark, Ecuador, Estonia, Finland, France, French Guiana, Germany, Ghana, Greece, Guadeloupe, Hungary, Iceland, Indonesia, Iran, Ireland, Italy, Kazakhstan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Martinique, Mayotte, Moldova, Netherlands, Nigeria, North Korea, North Macedonia, Norway, Poland, Portugal, Romania, Russia, Rwanda, Réunion, Serbia, Slovakia, Slovenia, Spain, St. Martin, Sweden, Syria, Tanzania, Türkiye, Uganda, United Kingdom, Uzbekistan, Vietnam, Zambia, Åland Islands. Crimea and the non-government-controlled areas of Donetsk and Luhansk are also excluded; other parts of Ukraine are not excluded by that rule.
+
+Do not circumvent applicable distribution or use restrictions or knowingly provide inaccurate information. You are responsible for complying with the laws applicable to your use. This does not remove Wilwigo’s legal obligations or rights that cannot be excluded by contract. An eligible resident may use the Service while travelling only where applicable law and provider restrictions permit; availability is not guaranteed at every destination.
+
+Wilwigo does not request a separate residence declaration or automatically block sign-in based on geography. No nationality, GPS or IP-location check is added for this purpose. Early access remains capped at 1,000 total Auth accounts; capacity does not reserve a place. Privacy, support and account-deletion routes remain available. We may restrict access where necessary to comply with a legal obligation or provider restriction; a residence change alone does not automatically delete an account.
 
 ## 3. Profiles, friends, trips, and visibility
 
@@ -325,6 +347,8 @@ Wilwigo uses service providers for functions that may include authentication, ho
 
 Some third-party services you interact with directly, such as Google during sign-in or an external social platform when you open a profile link, have their own terms and privacy practices.
 
+Use of Google Maps features is subject to the [Google Maps/Google Earth Additional Terms of Service](https://maps.google.com/help/terms_maps/) and [Google Privacy Policy](https://policies.google.com/privacy).
+
 Wilwigo is not responsible for the content or practices of independent third-party services that it does not control.
 
 ## 8. Communications
@@ -385,9 +409,10 @@ Provisions that by their nature are intended to continue after your account clos
 
 Questions about these Terms:
 
-**Wilwigo Inc.**  
-**support@wilwigo.com**  
+**Wilwigo Inc.**
+**support@wilwigo.com**
 **Ontario, Canada**
 
-**Version:** L1-T-2.2  
-**Effective date:** 2026-10-29
+**Version:** L1-T-2.3
+**Effective date:** 2026-11-19
+
