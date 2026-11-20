@@ -5,10 +5,10 @@ permalink: /privacy/
 ---
 # Politique de confidentialité de Wilwigo / Wilwigo Privacy Notice
 
-**Responsable / Operator :** Wilwigo Inc.  
-**Produit / Product :** Wilwigo  
-**Version :** L1-P-2.1  
-**Date d’entrée en vigueur / Effective date :** 2026-10-24
+**Responsable / Operator :** Wilwigo Inc.
+**Produit / Product :** Wilwigo
+**Version :** L1-P-2.2
+**Date d’entrée en vigueur / Effective date :** 2026-11-20
 
 [Français](#français) · [English](#english)
 
@@ -18,7 +18,7 @@ permalink: /privacy/
 
 ## 1. Portée de la présente Politique
 
-**Wilwigo Inc.** est responsable des renseignements personnels sous son contrôle. La présente Politique explique comment Wilwigo recueille, utilise, communique, conserve et protège les renseignements personnels dans le cadre de l’application Wilwigo, du site Web, de la liste d’attente, des invitations, du soutien et des activités connexes d’accès anticipé (le **« Service »**).
+**Wilwigo Inc.** est responsable des renseignements personnels sous son contrôle. La présente Politique explique comment Wilwigo recueille, utilise, communique, conserve et protège les renseignements personnels dans le cadre de l’application Wilwigo, du site Web, de la liste d’attente, des invitations, du soutien et des activités connexes (le **« Service »**).
 
 Pour toute question ou demande concernant la confidentialité, communiquez avec **privacy@wilwigo.com**.
 
@@ -26,7 +26,7 @@ Pour toute question ou demande concernant la confidentialité, communiquez avec 
 
 Wilwigo n’utilise pas le GPS de votre appareil pour déterminer votre présence à l’échelle d’une ville dans le Service actuel. La présence prévue est déduite de votre ville de résidence et des voyages enregistrés dans Wilwigo.
 
-Sous réserve des contrôles applicables, les autres participants admissibles et connectés peuvent voir votre **ville et pays de résidence** afin de vous trouver dans Wilwigo. Vos amis acceptés peuvent aussi voir votre présence prévue à l’échelle d’une ville, les voyages que vous rendez visibles aux amis, les Overlaps correspondants et les liens de profils sociaux facultatifs que vous ajoutez.
+Les autres participants admissibles et connectés peuvent voir votre **ville et pays de résidence**, même s’ils ne sont pas vos amis. Les règles de blocage s’appliquent. Vos amis acceptés peuvent aussi voir votre présence prévue à l’échelle d’une ville, les voyages que vous rendez visibles aux amis, les Overlaps correspondants et les liens de profils sociaux facultatifs que vous ajoutez.
 
 Un voyage **Masqué** n’est pas partagé avec vos amis et n’est pas utilisé pour calculer la présence prévue ou les Overlaps visibles aux amis. Il se peut donc que Wilwigo montre votre ville de résidence à vos amis même lorsque vous êtes physiquement ailleurs.
 
@@ -41,7 +41,7 @@ Selon les fonctions que vous utilisez, Wilwigo peut traiter les catégories suiv
 - votre adresse courriel et les identifiants de compte ou métadonnées d’authentification fournis par Google;
 - les identifiants internes de votre compte Wilwigo, son état et les renseignements nécessaires à l’admissibilité, à l’intégration et à l’acceptation des documents juridiques.
 
-Wilwigo ne reçoit pas votre mot de passe Google.
+Wilwigo ne reçoit pas votre mot de passe Google. Les renseignements essentiels au compte, l’admissibilité, l’acceptation juridique et la ville de résidence sont nécessaires pour utiliser le Service; les photos personnalisées, les liens sociaux, les voyages et les rétroactions sont facultatifs. Le traitement technique des identifiants Android décrit ci-dessous a lieu même sans activer les notifications poussées.
 
 ### Profil et ville de résidence
 
@@ -52,7 +52,9 @@ Wilwigo ne reçoit pas votre mot de passe Google.
 
 Les identifiants précis de lieu, les coordonnées et l’historique de résidence ne sont pas communiqués à un non-ami du seul fait qu’il peut vous découvrir dans Wilwigo.
 
-Si vous téléversez une photo de profil personnalisée, Wilwigo la soumet à OpenAI pour un contrôle automatisé de modération. La photo doit ensuite être approuvée par une personne avant d’être affichée aux autres participants. Le téléversement est facultatif; le contrôle n’est pas utilisé pour vous identifier.
+Google peut fournir une adresse URL de photo de compte lors de la connexion; Wilwigo l’enregistre automatiquement lorsqu’elle est fournie. Cela est distinct du choix facultatif de téléverser une nouvelle photo personnalisée.
+
+Si vous choisissez de téléverser une photo de profil personnalisée, l’application la recadre et la réencode en JPEG. Elle est placée dans une file privée et doit être approuvée par une personne avant son affichage aux autres participants. Le téléversement est facultatif; Wilwigo ne procède pas à une reconnaissance faciale ni à la création d’un gabarit biométrique. Vous pouvez conserver jusqu’à cinq photos approuvées et avoir une seule demande d’examen en cours.
 
 ### Voyages
 
@@ -74,7 +76,9 @@ Certaines préférences et certains états d’intégration sont conservés uniq
 
 ### Notifications et courriels d’activité
 
-Wilwigo traite les notifications dans l’application. Sur les appareils compatibles, des services de notifications peuvent traiter des jetons et identifiants techniques d’appareil ou d’installation pour permettre l’envoi de notifications. Sur Android, Firebase peut produire ces identifiants même lorsque les notifications poussées sont désactivées; Wilwigo n’enregistre le jeton pour l’envoi de notifications qu’une fois cette fonction activée. Si vous choisissez de recevoir des courriels d’activité, nous utilisons votre adresse courriel et les renseignements nécessaires pour vous les envoyer.
+Wilwigo traite les notifications dans l’application. Sur Android, Firebase Cloud Messaging et Firebase Installations de Google traitent un jeton de livraison, un identifiant d’installation Firebase et des métadonnées techniques sur l’application et l’appareil. Wilwigo crée aussi un identifiant d’installation aléatoire pour isoler les enregistrements des sessions de compte. Lors d’une nouvelle session authentifiée, le jeton Android est remplacé même si les notifications poussées sont désactivées; Wilwigo n’enregistre le jeton pour l’envoi qu’après leur activation. Désactiver les notifications n’empêche donc pas tout traitement d’identifiants par Firebase. Le contenu visible d’une notification poussée Android est générique; les détails demeurent dans l’application authentifiée. Wilwigo n’utilise pas Firebase Analytics.
+
+Expo peut assurer les notifications des clients iOS ou anciens concernés; le client Android actuel utilise directement FCM pour ses jetons. Si vous choisissez les courriels d’activité, nous utilisons votre adresse courriel et l’activité admissible pour le récapitulatif hebdomadaire.
 
 ### Liste d’attente du site Web
 
@@ -85,6 +89,12 @@ Si vous vous inscrivez à la liste d’attente, Wilwigo traite votre adresse cou
 Si vous communiquez avec nous ou utilisez la fonction **Tester feedback**, Wilwigo traite le contenu de votre message et peut joindre un contexte technique limité, notamment votre compte, l’écran courant, la version de l’application, la plateforme, le navigateur ou l’agent utilisateur, les dimensions d’affichage et l’heure de l’envoi.
 
 Si vous joignez une image à une rétroaction, l’application la réencode localement en JPEG avant l’envoi. L’image n’est pas conservée dans la base de données ou le stockage de fichiers du produit; elle peut toutefois demeurer dans la boîte de réception du fournisseur de courriel pendant la période raisonnablement nécessaire au traitement de la rétroaction.
+
+### Signalements et modération humaine
+
+Les signalements sont aussi possibles sans compte. Une demande de retrait peut contenir votre nom, vos coordonnées, votre signature électronique, les renseignements permettant de trouver le contenu et votre déclaration de bonne foi concernant l’absence de consentement. Un représentant autorisé peut agir pour la personne concernée. Nous utilisons ces renseignements pour examiner la demande, communiquer avec son auteur et respecter nos obligations de sécurité et de retrait.
+
+Un signalement peut inclure l’identifiant de votre compte, la personne ou le contenu visé, un motif, votre description et un contexte technique limité. Les signalements de photo sont traités dans le système privé de modération; les signalements de profil ou de contenu et la rétroaction peuvent être transmis à des boîtes courriel opérationnelles à accès limité. Les personnes autorisées de Wilwigo les examinent pour la sécurité et le suivi. Évitez les renseignements sensibles ou concernant des tiers qui ne sont pas nécessaires.
 
 ### Données techniques, sécurité et preuve juridique
 
@@ -126,13 +136,25 @@ Wilwigo ne vend pas de renseignements personnels et n’utilise pas de publicit�
 
 ### Autres participants
 
+Votre nom affiché, votre nom d’utilisateur et votre photo de profil peuvent accompagner votre ville et pays de résidence dans les fonctions de recherche et de découverte. Une photo personnalisée approuvée est accessible par un lien public : une personne qui obtient ce lien peut ouvrir l’image sans se connecter. Cela ne rend pas publics vos voyages Masqués. Un blocage ultérieur ne peut pas effacer les captures ou copies déjà obtenues.
+
 Les autres participants admissibles et connectés peuvent voir votre ville et pays de résidence conformément aux règles de découverte. Ils ne reçoivent pas pour autant vos coordonnées précises, votre historique de résidence, votre présence prévue, vos voyages, vos Overlaps ou vos liens de profils sociaux.
 
 Vos amis acceptés peuvent voir les renseignements que vous rendez visibles aux amis, notamment votre ville de résidence, votre présence prévue à l’échelle d’une ville, les voyages visibles aux amis, les Overlaps correspondants et les liens de profils sociaux facultatifs. Les voyages Masqués ne sont pas communiqués à vos amis.
 
 ### Fournisseurs de services
 
-Des fournisseurs nous aident à exploiter Wilwigo, notamment pour la connexion, l’hébergement, les communications et les notifications (**Google**, **Supabase**, **Expo** et, sur Android, **Firebase**). Lorsque vous utilisez les fonctions concernées, **OpenAI** contrôle les photos de profil facultatives et **Pexels** fournit des images de voyage à partir de recherches limitées à la ville de destination.
+**Supabase** fournit l’authentification, la base de données, les fonctions serveur et le stockage. **Google** fournit la connexion, les services de lieux, Workspace/Gmail et l’infrastructure Cloud; **Firebase** sert aux notifications Android. **Expo** fournit des services de construction et de livraison de l’application et, pour les clients concernés, de notifications. **Pexels** fournit les images de voyage à partir d’un contexte de ville limité. **GitHub Pages** héberge le site institutionnel.
+
+Lorsque vous recherchez un lieu, Google peut recevoir le texte de votre recherche, un identifiant de session et le lieu choisi. Google utilise aussi les données de Maps pour fournir et améliorer ses produits et services conformément à ses [Règles de confidentialité](https://policies.google.com/privacy).
+
+Pour les images de voyage, notre serveur interroge Pexels à partir de la ville de destination sans lui transmettre votre identité ni vos dates de voyage. Lorsque votre appareil charge une image auprès d’un hébergeur externe, notamment une image Google, cet hébergeur peut recevoir votre adresse IP et des renseignements sur la requête. Les conditions et pratiques de confidentialité d’un service externe s’appliquent lorsque vous l’utilisez.
+
+Certains fournisseurs traitent des renseignements pour notre compte; d’autres déterminent aussi certaines de leurs propres finalités. Wilwigo demeure responsable de ses obligations lorsqu’elle choisit un fournisseur ou lui communique des renseignements.
+
+### Vos partages volontaires
+
+Vous pouvez prendre une capture de votre Story de voyage et la partager ailleurs, ou transmettre votre lien personnel d’invitation. Le destinataire et la plateforme choisie peuvent recevoir les renseignements visibles ou le lien. La Story n’est pas une page publique de voyage et ne change pas la visibilité du voyage dans Wilwigo.
 
 ### Exigences juridiques et protection du Service
 
@@ -140,11 +162,15 @@ Wilwigo peut communiquer des renseignements lorsque la loi l’exige ou le perme
 
 ## 7. Traitement à l’extérieur de votre province ou du Canada
 
-Certains fournisseurs de services peuvent traiter ou stocker des renseignements personnels à l’extérieur de l’Ontario, du Québec ou du Canada, notamment aux États-Unis. Les renseignements traités dans une autre juridiction peuvent être assujettis aux lois de cette juridiction et à l’accès légal de ses autorités.
+Certains fournisseurs de services peuvent traiter ou stocker des renseignements personnels à l’extérieur de l’Ontario, du Québec ou du Canada, notamment aux États-Unis. La base principale actuelle est hébergée en Virginie du Nord, aux États-Unis. Les renseignements traités dans une autre juridiction peuvent être assujettis aux lois de cette juridiction et à l’accès légal de ses autorités.
+
+Pour connaître les lieux de traitement, nos politiques concernant les fournisseurs à l’extérieur du Canada ou les mesures de protection applicables à un transfert en particulier, écrivez au responsable de la protection des renseignements personnels à **privacy@wilwigo.com**. Si la loi vous donne le droit d’obtenir une copie de ces mesures, vous pouvez la demander à la même adresse.
 
 ## 8. Stockage local et technologies similaires
 
 Wilwigo utilise le stockage local de votre navigateur ou appareil pour maintenir votre session de connexion et conserver certaines préférences ou certains états du produit. Ces données peuvent demeurer sur l’appareil ou dans le navigateur jusqu’à leur suppression par Wilwigo, la déconnexion lorsque cette opération les efface, ou l’effacement des données du navigateur ou de l’application, selon le cas.
+
+Notre site Web fonctionne de la même façon lorsque votre navigateur transmet un signal de refus de suivi (« Do Not Track »). Lorsque vous recherchez un lieu ou chargez une image externe, le fournisseur reçoit des renseignements sur la demande et peut être en mesure de les associer à votre activité sur d’autres services. La section 6 décrit ces demandes.
 
 ## 9. Conservation et suppression
 
@@ -158,7 +184,7 @@ Wilwigo conserve les renseignements en fonction de leur utilité et de leur fina
 - les nombres maximaux utilisés pour la progression pendant que le compte est actif;
 - les renseignements de liste d’attente aussi longtemps qu’ils sont raisonnablement nécessaires à la gestion de l’accès anticipé ou jusqu’à une demande de suppression applicable;
 - les identifiants pseudonymisés de contrôle du débit pour une courte période; les entrées expirées deviennent actuellement admissibles à la suppression après environ une heure;
-- les photos de profil personnalisées et les résultats limités de leur modération aussi longtemps que nécessaires à leur examen, à leur utilisation dans le compte et aux besoins de sécurité;
+- les octets JPEG de la file privée jusqu’à la finalisation de l’examen; la copie approuvée demeure dans la bibliothèque jusqu’à sa suppression ou celle du compte; les dossiers limités de modération et d’examen peuvent être conservés selon leur nécessité documentée de sécurité et de responsabilisation;
 - les jetons et identifiants de notification aussi longtemps que nécessaires à la livraison et à la sécurité;
 - les demandes de soutien et rétroactions aussi longtemps qu’elles sont raisonnablement nécessaires pour y répondre, assurer le suivi et conserver les preuves nécessaires; et
 - les copies de sauvegarde selon les cycles de rotation applicables.
@@ -169,13 +195,23 @@ Wilwigo peut conserver pendant **24 mois après la suppression du compte** une p
 
 Des renseignements limités liés à la sécurité, aux incidents, aux obligations juridiques ou aux fournisseurs peuvent être conservés plus longtemps lorsqu’un besoin documenté ou la loi le justifie. Si des données supprimées sont restaurées à partir d’une sauvegarde, la suppression doit être réappliquée avant leur retour à une utilisation active.
 
+Lorsque vous supprimez votre compte dans l’application Android, celle-ci demande également la suppression de son identifiant d’installation Firebase. Firebase indique qu’il retire cet identifiant de ses systèmes actifs et de sauvegarde dans un délai maximal de **180 jours** après réception de la demande. Les enregistrements Android inactifs conservés par Wilwigo deviennent admissibles au nettoyage après **90 jours d’inactivité**. Ces périodes sont distinctes du délai maximal de 30 jours applicable aux renseignements actifs du produit sous le contrôle de Wilwigo.
+
 ## 10. Vos choix et demandes
 
 Vous pouvez modifier certains renseignements et préférences directement dans Wilwigo. Vous pouvez aussi nous demander, selon les droits applicables à votre situation, d’accéder aux renseignements personnels que nous détenons à votre sujet, de les corriger, de les supprimer ou d’en obtenir une copie portable, ou retirer un consentement lorsque ce droit s’applique.
 
 Vous pouvez désactiver les courriels d’activité dans les réglages prévus à cette fin. L’inscription à la liste d’attente n’est pas une inscription à des communications marketing.
 
-Pour une demande concernant vos renseignements personnels, communiquez avec **privacy@wilwigo.com**.
+Vous pouvez demander la suppression du compte dans **Menu → Supprimer le compte**, ou sans connexion à [wilwigo.com/delete-account/](https://wilwigo.com/delete-account/). Vous pouvez aussi demander la suppression de certaines données en conservant le compte, sous réserve des données essentielles et exceptions applicables.
+
+Lorsque les droits applicables le prévoient, vous pouvez aussi vous opposer à un traitement, demander sa limitation, retirer un consentement sans affecter le traitement licite antérieur et porter plainte auprès de votre autorité locale. Nous vérifions votre identité de manière proportionnée et répondons dans le délai légal applicable. L’exercice de vos droits ne nécessite pas de nouvel achat ni l’envoi de votre mot de passe.
+
+Pour une demande concernant vos renseignements personnels, communiquez avec le **responsable de la protection des renseignements personnels : privacy@wilwigo.com**.
+
+Nous utilisons les renseignements nécessaires pour fournir les fonctions que vous demandez, protéger les comptes, répondre aux demandes de soutien et respecter nos obligations légales. Nous demandons votre consentement lorsque la loi l’exige. Prendre connaissance de la présente Politique ne constitue pas un consentement général à toutes les utilisations de renseignements.
+
+Les suggestions de personnes et les Overlaps utilisent les villes, voyages et relations pour classer des suggestions ou trouver des coïncidences prévues. Wilwigo ne prend pas, sur ce fondement, de décision exclusivement automatisée produisant un effet juridique ou similaire important à votre égard. Les décisions finales concernant les photos personnalisées sont humaines.
 
 ## 11. Sécurité et incidents
 
@@ -189,22 +225,23 @@ Wilwigo est destiné aux personnes âgées d’au moins 18 ans qui sont légalem
 
 ## 13. Modifications de la présente Politique
 
-Si nous apportons une modification importante à la façon dont nous recueillons, utilisons, communiquons ou rendons visibles les renseignements personnels, nous fournirons l’avis et demanderons le consentement ou l’acceptation requis avant l’entrée en vigueur de la modification.
-
-Nous pouvons corriger des erreurs de mise en forme, de typographie ou d’autres erreurs non substantielles sans demander une nouvelle acceptation.
+Nous vous aviserons avant de modifier de façon importante la manière dont nous recueillons, utilisons, communiquons ou affichons les renseignements personnels. Si une modification exige votre consentement, nous vous le demanderons avant d’utiliser vos renseignements à cette fin. Nous pouvons corriger des erreurs de typographie ou de mise en forme sans demander une nouvelle acceptation.
 
 ## 14. Confidentialité et plaintes
 
 Pour toute question, demande ou plainte concernant la confidentialité :
 
-**Wilwigo Inc.**  
-**privacy@wilwigo.com**  
+**Responsable de la protection des renseignements personnels**
+**Wilwigo Inc.**
+**privacy@wilwigo.com**
 **Ontario, Canada**
 
-Vous pouvez également vous adresser à l’autorité de protection de la vie privée compétente, notamment au **Commissariat à la protection de la vie privée du Canada** ou, lorsque le droit québécois s’applique, à la **Commission d’accès à l’information du Québec**.
+Le responsable de la protection des renseignements personnels supervise nos pratiques et examine les plaintes. Pour porter plainte, écrivez à l’adresse ci-dessus, décrivez la situation et indiquez comment vous joindre. Nous examinerons votre plainte et vous informerons du résultat. Notre page [Gouvernance de la confidentialité](https://wilwigo.com/privacy-governance/#français) décrit nos responsabilités, règles de conservation et processus de traitement des plaintes.
 
-**Version :** L1-P-2.1  
-**Date d’entrée en vigueur :** 2026-10-24
+Vous pouvez également vous adresser à l’autorité de protection de la vie privée compétente, notamment au [Commissariat à la protection de la vie privée du Canada](https://www.priv.gc.ca/), à la [Commission d’accès à l’information du Québec](https://www.cai.gouv.qc.ca/) lorsque le droit québécois s’applique, à votre [autorité de l’EEE](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en), ou à l’[ICO au Royaume-Uni](https://ico.org.uk/make-a-complaint/), selon le droit applicable.
+
+**Version :** L1-P-2.2
+**Date d’entrée en vigueur :** 2026-11-20
 
 ---
 
@@ -212,7 +249,7 @@ Vous pouvez également vous adresser à l’autorité de protection de la vie pr
 
 ## 1. Scope of this Notice
 
-**Wilwigo Inc.** is responsible for personal information under its control. This Privacy Notice explains how Wilwigo collects, uses, discloses, retains, and protects personal information through the Wilwigo application, website, waitlist, invitations, support, and related early-access operations (the **“Service”**).
+**Wilwigo Inc.** is responsible for personal information under its control. This Privacy Notice explains how Wilwigo collects, uses, discloses, retains, and protects personal information through the Wilwigo application, website, waitlist, invitations, support, and related operations (the **“Service”**).
 
 For privacy questions or requests, contact **privacy@wilwigo.com**.
 
@@ -220,7 +257,7 @@ For privacy questions or requests, contact **privacy@wilwigo.com**.
 
 Wilwigo does not use your device GPS to determine your city-level presence in the current Service. Planned presence is derived from the home city and trips saved in Wilwigo.
 
-Subject to applicable controls, other eligible signed-in participants may see your **home city and country** so they can find you in Wilwigo. Your accepted friends may also see your planned city-level presence, trips you make Friends-visible, related Overlaps, and optional social-profile links you add.
+Other eligible signed-in participants can see your **home city and country**, even if they are not your friends. Blocking rules apply. Your accepted friends may also see your planned city-level presence, Friends-visible trips, related Overlaps and optional social-profile links you add.
 
 A **Hidden** trip is not shared with your friends and is not used to calculate friend-facing planned presence or Overlaps. Wilwigo may therefore show your home city to friends even while you are physically elsewhere.
 
@@ -235,7 +272,7 @@ Depending on the features you use, Wilwigo may process the following categories 
 - your email address and account identifiers or authentication metadata provided by Google; and
 - your internal Wilwigo account identifiers, account status, and information needed for eligibility, onboarding, and legal acceptance.
 
-Wilwigo does not receive your Google password.
+Wilwigo does not receive your Google password. Core account information, eligibility, legal acknowledgment and home city are needed to use the Service; custom pictures, social links, trips and feedback are optional. The Android identifier processing described below occurs even without enabling push notifications.
 
 ### Profile and home city
 
@@ -246,7 +283,9 @@ Wilwigo does not receive your Google password.
 
 Precise place identifiers, coordinates, and home history are not disclosed to a nonfriend merely because that person can discover you in Wilwigo.
 
-If you upload a custom profile picture, Wilwigo sends it to OpenAI for automated moderation screening. A person must also approve the picture before other participants can see it. Uploading a picture is optional; this screening is not used to identify you.
+Google may supply an account-picture URL at sign-in; Wilwigo automatically records it when supplied. This is separate from the optional choice to upload a new custom picture.
+
+If you choose to upload a custom profile picture, the app crops and re-encodes it as JPEG. It enters a private queue and requires human approval before display to other participants. Uploading is optional; Wilwigo does not perform facial recognition or create a biometric template. You may retain up to five approved pictures and have one review in progress.
 
 ### Trips
 
@@ -268,7 +307,9 @@ Some preferences and onboarding state are stored only in local browser or device
 
 ### Notifications and activity email
 
-Wilwigo processes in-app notifications. On supported devices, notification services may process device or installation identifiers and tokens needed to deliver push notifications. On Android, Firebase may create these identifiers even when push notifications are disabled; Wilwigo registers the delivery token only after you enable push notifications. If you opt in to activity email, we use your email address and the information needed to send those messages.
+Wilwigo processes in-app notifications. On Android, Google's Firebase Cloud Messaging and Firebase Installations process a delivery token, a Firebase installation ID and technical app/device metadata. Wilwigo also creates a random installation ID to isolate account-session registrations. During a newly authenticated session, the Android token is replaced even if push notifications are disabled; Wilwigo registers it for delivery only after you enable push. Turning notifications off therefore does not stop all Firebase identifier processing. Visible Android push content is generic; details remain in the authenticated app. Wilwigo does not use Firebase Analytics.
+
+Expo may deliver notifications for applicable iOS or legacy clients; the current Android client uses direct FCM tokens. If you choose activity email, we use your email address and eligible activity for the weekly digest.
 
 ### Website waitlist
 
@@ -279,6 +320,12 @@ If you join the waitlist, Wilwigo processes your email address and limited sourc
 If you contact us or use **Tester feedback**, Wilwigo processes the content of your message and may attach limited technical context such as your account, current screen, app version, platform, browser or user agent, viewport dimensions, and submission time.
 
 If you attach an image to tester feedback, the application re-encodes it locally as JPEG before sending it. The image is not stored in the product database or file storage, although it may remain in the email provider’s mailbox for the period reasonably necessary to handle the feedback.
+
+### Reports and human moderation
+
+Reports can also be made without an account. A removal request may include your name, contact details, electronic signature, information locating the content, and your good-faith statement that consent was absent. An authorized representative may act for the person concerned. We use this information to assess the request, contact the requester, and meet our safety and removal obligations.
+
+A report may include your account identifier, the person or content reported, a reason, your description and limited technical context. Photo reports use the private moderation system; profile/content reports and feedback may be sent to restricted operational email inboxes. Authorized Wilwigo personnel review them for safety and follow-up. Avoid unnecessary sensitive or third-party information.
 
 ### Technical, security, and legal evidence
 
@@ -320,13 +367,25 @@ Wilwigo does not sell personal information and does not use behavioural advertis
 
 ### Other participants
 
+Your display name, username and profile picture may appear alongside your home city and country in search and discovery. An approved custom picture has a public image link: someone who obtains that link can open the image without signing in. This does not make Hidden trips public. A later block cannot erase screenshots or copies already obtained.
+
 Other eligible signed-in participants may see your home city and country under the discovery rules. This does not give them your precise coordinates, home history, planned presence, trips, Overlaps, or social-profile links.
 
 Your accepted friends may see information you make Friends-visible, including your home city, planned city-level presence, Friends-visible trips, related Overlaps, and optional social-profile links. Hidden trips are not disclosed to friends.
 
 ### Service providers
 
-Service providers help us operate Wilwigo, including sign-in, hosting, communications, and notifications (**Google**, **Supabase**, **Expo**, and **Firebase** on Android). When you use the relevant features, **OpenAI** screens optional profile pictures and **Pexels** supplies trip images using searches limited to the destination city.
+**Supabase** supplies authentication, database, server functions and storage. **Google** supplies sign-in, place services, Workspace/Gmail and Cloud infrastructure; **Firebase** supports Android notifications. **Expo** supplies app build/delivery services and notifications for applicable clients. **Pexels** supplies trip imagery from limited city context. **GitHub Pages** hosts the corporate website.
+
+When you search for a place, Google may receive your search text, a search-session identifier and the place you select. Google also uses Maps data to provide and improve its products and services under its [Privacy Policy](https://policies.google.com/privacy).
+
+For trip images, our server searches Pexels using the destination city, without sending your identity or travel dates. When your device loads an image from an external host, including a Google image, the host can receive your IP address and details of the request. An external service’s terms and privacy practices apply when you use it.
+
+Some providers process information on our behalf; others also determine some of their own purposes. Wilwigo remains responsible for its obligations when selecting a provider or disclosing information to it.
+
+### Sharing you choose
+
+You may take a screenshot of your trip Story and share it elsewhere, or send your personal invitation link. Your recipient and chosen platform may receive the visible information or link. The Story is not a public trip page and does not change trip visibility within Wilwigo.
 
 ### Legal requirements and protection of the Service
 
@@ -334,11 +393,15 @@ Wilwigo may disclose information where permitted or required by law, including t
 
 ## 7. Processing outside your province or Canada
 
-Some service providers may process or store personal information outside Ontario, Quebec, or Canada, including in the United States. Information processed in another jurisdiction may be subject to that jurisdiction’s laws and lawful access by its authorities.
+Some service providers may process or store personal information outside Ontario, Quebec, or Canada, including in the United States. The current primary database is hosted in North Virginia, United States. Information processed in another jurisdiction may be subject to that jurisdiction’s laws and lawful access by its authorities.
+
+For information about where our providers process personal information, our policies for using providers outside Canada, or the safeguards for a particular transfer, write to our Privacy Officer at **privacy@wilwigo.com**. Where the law gives you the right to a copy of the safeguards, you can request one at the same address.
 
 ## 8. Local storage and similar technologies
 
 Wilwigo uses local browser or device storage to maintain your sign-in session and store certain preferences or product state. This information may remain on the device or in the browser until Wilwigo removes it, sign-out clears it where applicable, or you clear the browser or application data.
+
+Our website operates the same way when your browser sends a Do Not Track signal. When you use place search or load an external image, the provider receives information about the request and may be able to associate it with your activity on other services. Section 6 describes these requests.
 
 ## 9. Retention and deletion
 
@@ -352,16 +415,18 @@ Wilwigo retains information according to its purpose and operational need:
 - achievement peak counts while the account is active;
 - waitlist information for as long as reasonably needed to operate early access or until an applicable deletion request;
 - pseudonymized rate-limit identifiers for a short period; expired entries currently become eligible for deletion after about one hour;
-- custom profile pictures and limited moderation results as needed for their review, account use, and security;
+- private-queue JPEG bytes until review is finalized; an approved copy remains in the library until you delete it or the account; limited moderation and review records may be retained according to documented security and accountability needs;
 - notification tokens and identifiers as long as needed for delivery and security;
 - support requests and feedback for as long as reasonably needed to respond, follow up, and maintain necessary records; and
 - backup copies according to applicable rotation cycles.
 
 After a valid deletion request, Wilwigo deletes the account and active product information under its control within a maximum of **30 days**.
 
-Wilwigo may retain for **24 months after account deletion** minimized evidence of legal acceptance and of the deletion request and completion. This evidence is not intended to contain the deleted account’s ordinary profile, trips, home history, friendships, or detailed notifications.
+Wilwigo may retain for **24 months after account deletion** minimized evidence of legal acceptance and of the deletion request and completion. This evidence must not contain the deleted account’s ordinary profile, trips, home history, friendships, or detailed notifications.
 
 Limited security, incident, legal, or provider records may be retained longer where a documented need or law justifies it. If deleted data is restored from backup, the deletion must be reapplied before that data returns to active use.
+
+When you delete your account in the Android app, the app also requests deletion of its Firebase installation ID. Firebase states that it removes the ID from its live and backup systems within **180 days** of receiving the request. Inactive Android registrations held by Wilwigo become eligible for cleanup after **90 days of inactivity**. These periods are separate from the 30-day limit for active product information under Wilwigo’s control.
 
 ## 10. Your choices and requests
 
@@ -369,7 +434,15 @@ You can edit certain information and preferences directly in Wilwigo. You may al
 
 You can disable activity email in the applicable settings. Joining the waitlist is not a signup for marketing communications.
 
-For a request concerning your personal information, contact **privacy@wilwigo.com**.
+You can request account deletion in **Menu → Delete account**, or without signing in at [wilwigo.com/delete-account/](https://wilwigo.com/delete-account/). You may also request deletion of certain data while keeping the account, subject to essential data and applicable exceptions.
+
+Where applicable rights provide for it, you may also object to processing, request restriction, withdraw consent without affecting prior lawful processing, and complain to your local supervisory authority. We verify identity proportionately and respond within the applicable legal deadline. Exercising rights does not require a new purchase or sending your password.
+
+For requests, contact the **Privacy Officer: privacy@wilwigo.com**.
+
+We use information needed to provide the features you request, protect accounts, respond to support requests and meet our legal obligations. We ask for consent where required by law. Acknowledging this Notice is not blanket consent to every use of information.
+
+People suggestions and Overlaps use cities, trips and relationships to rank suggestions or identify planned overlaps. Wilwigo does not use this to make solely automated decisions producing legal or similarly significant effects on you. Final custom-picture decisions are made by humans.
 
 ## 11. Security and incidents
 
@@ -383,19 +456,20 @@ Wilwigo is intended for people who are at least 18 years old and legally permitt
 
 ## 13. Changes to this Notice
 
-If we make a material change to how we collect, use, disclose, or make personal information visible, we will provide the notice and obtain the consent or acceptance required before the change takes effect.
-
-We may correct formatting, typographical, or other non-substantive errors without renewed acceptance.
+We will notify you before materially changing how we collect, use, disclose or display personal information. If a change requires your consent, we will ask before using your information for that purpose. We may correct typographical or formatting errors without asking for renewed acceptance.
 
 ## 14. Privacy contact and complaints
 
 For privacy questions, requests, or complaints:
 
-**Wilwigo Inc.**  
-**privacy@wilwigo.com**  
+**Privacy Officer**
+**Wilwigo Inc.**
+**privacy@wilwigo.com**
 **Ontario, Canada**
 
-You may also contact the privacy authority that applies to your concern, including the **Office of the Privacy Commissioner of Canada** or, where Quebec law applies, the **Commission d’accès à l’information du Québec**.
+Our Privacy Officer oversees our practices and reviews privacy complaints. To make a complaint, write to the address above, describe the issue and tell us how to reach you. We will examine your complaint and tell you the outcome. Our [Privacy Governance](https://wilwigo.com/privacy-governance/) page explains our responsibilities, retention rules and complaint process.
 
-**Version:** L1-P-2.1  
-**Effective date:** 2026-10-24
+You may also contact the privacy authority that applies to your concern, including the [Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/), the [Commission d’accès à l’information du Québec](https://www.cai.gouv.qc.ca/) where Quebec law applies, your [EEA supervisory authority](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en), or the [UK ICO](https://ico.org.uk/make-a-complaint/), as applicable.
+
+**Version:** L1-P-2.2
+**Effective date:** 2026-11-20
