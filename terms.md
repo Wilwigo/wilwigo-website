@@ -20,7 +20,7 @@ permalink: /terms/
 
 Les présentes Conditions d’utilisation (les **« Conditions »**) constituent un accord entre vous et **Wilwigo Inc.** (« Wilwigo », « nous », « notre » ou « nos »). Elles régissent l’utilisation de l’application Wilwigo et des fonctions connexes de votre compte (le **« Service »**).
 
-En cochant la case d’acceptation et en choisissant **Accepter et continuer**, vous acceptez les présentes Conditions. Vous pouvez les refuser et ne pas utiliser le Service. Consulter les pages publiques, signaler un contenu ou exercer vos droits en matière de confidentialité et de suppression ne nécessite pas d’accepter les Conditions. La Politique de confidentialité explique séparément comment nous traitons les renseignements personnels.
+En cochant la case d’acceptation et en choisissant **Accepter et continuer**, vous acceptez les présentes Conditions. Vous pouvez les refuser et ne pas utiliser le Service. Consulter les pages publiques, signaler un contenu ou exercer vos droits en matière de confidentialité et de suppression ne nécessite pas d’accepter les Conditions. La Politique de confidentialité explique séparément comment nous traitons les renseignements personnels. La publication d’une nouvelle version ne remplace pas, à elle seule, les Conditions que vous avez déjà acceptées.
 
 Les versions française et anglaise forment un même contrat bilingue. Vous pouvez consulter l’une ou l’autre au moyen du lien de langue. Lorsque le droit québécois s’applique, vous pouvez invoquer la version de votre choix en cas de divergence.
 
@@ -226,7 +226,7 @@ Questions au sujet des présentes Conditions :
 
 These Terms of Use (the **“Terms”**) are an agreement between you and **Wilwigo Inc.** (“Wilwigo,” “we,” “us,” or “our”). They govern your use of the Wilwigo application and related account features (the **“Service”**).
 
-By selecting the acceptance checkbox and choosing **Agree and continue**, you agree to these Terms. You may decline and not use the Service. Reading public pages, reporting content, or exercising privacy and deletion rights does not require you to accept the Terms. The Privacy Notice separately explains how we handle personal information.
+By selecting the acceptance checkbox and choosing **Agree and continue**, you agree to these Terms. You may decline and not use the Service. Reading public pages, reporting content, or exercising privacy and deletion rights does not require you to accept the Terms. The Privacy Notice separately explains how we handle personal information. Publishing a new version does not by itself replace Terms you previously accepted.
 
 The French and English versions form the same bilingual agreement. You can read either version using the language link. Where Québec law applies, you may rely on either version if they differ.
 

@@ -92,6 +92,8 @@ Si vous joignez une image à une rétroaction, l’application la réencode loca
 
 ### Signalements et modération humaine
 
+Les signalements sont aussi possibles sans compte. Une demande de retrait peut contenir votre nom, vos coordonnées, votre signature électronique, les renseignements permettant de trouver le contenu et votre déclaration de bonne foi concernant l’absence de consentement. Un représentant autorisé peut agir pour la personne concernée. Nous utilisons ces renseignements pour examiner la demande, communiquer avec son auteur et respecter nos obligations de sécurité et de retrait.
+
 Un signalement peut inclure l’identifiant de votre compte, la personne ou le contenu visé, un motif, votre description et un contexte technique limité. Les signalements de photo sont traités dans le système privé de modération; les signalements de profil ou de contenu et la rétroaction peuvent être transmis à des boîtes courriel opérationnelles à accès limité. Les personnes autorisées de Wilwigo les examinent pour la sécurité et le suivi. Évitez les renseignements sensibles ou concernant des tiers qui ne sont pas nécessaires.
 
 ### Données techniques, sécurité et preuve juridique
@@ -320,6 +322,8 @@ If you contact us or use **Tester feedback**, Wilwigo processes the content of y
 If you attach an image to tester feedback, the application re-encodes it locally as JPEG before sending it. The image is not stored in the product database or file storage, although it may remain in the email provider’s mailbox for the period reasonably necessary to handle the feedback.
 
 ### Reports and human moderation
+
+Reports can also be made without an account. A removal request may include your name, contact details, electronic signature, information locating the content, and your good-faith statement that consent was absent. An authorized representative may act for the person concerned. We use this information to assess the request, contact the requester, and meet our safety and removal obligations.
 
 A report may include your account identifier, the person or content reported, a reason, your description and limited technical context. Photo reports use the private moderation system; profile/content reports and feedback may be sent to restricted operational email inboxes. Authorized Wilwigo personnel review them for safety and follow-up. Avoid unnecessary sensitive or third-party information.
 
