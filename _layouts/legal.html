@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#ffffff" />
-  <title>{{ page.title }} — Wilwigo</title>
+  <title>{{ page.title | split: ' / ' | first | escape }} — Wilwigo</title>
   <style>
     :root { --blue:#087daf; --cyan:#16afe4; --ink:#18242d; --muted:#60707b; --line:#e6edf1; }
     * { box-sizing:border-box; }
@@ -25,17 +25,68 @@
     strong { font-weight:750; }
     hr { border:0; border-top:1px solid var(--line); margin:40px 0; }
     footer { border-top:1px solid var(--line); padding:26px 0 38px; color:var(--muted); font-size:13px; }
+    .only-fr { display:none; }
+    .language-target { height:0; }
+    #français:target ~ .shell .only-en { display:none; }
+    #français:target ~ .shell .only-fr { display:revert; }
+    .language-switch { display:inline-block; margin:0 0 24px; font-weight:600; }
+    @media print { nav,.language-switch,footer { display:none; } main { padding:0; } }
     @media (max-width:520px) { .shell{width:min(100% - 28px,860px)} nav{min-height:76px}.brand img{width:142px} main{padding:40px 0 64px} }
   </style>
 </head>
 <body>
+  <div id="français" class="language-target"></div>
+  <div id="english" class="language-target"></div>
+  {% assign english_title = page.title | split: ' / ' | first | strip %}
+  {% assign french_title = page.title | split: ' / ' | last | strip %}
+  {% assign french_content = '' %}
+  {% assign english_content = '' %}
+  {% assign heading_sections = content | split: '<h1' %}
+  {% for heading_section in heading_sections %}
+    {% if heading_section contains '>Français</h1>' %}
+      {% assign french_content = heading_section | split: '</h1>' | last %}
+    {% elsif heading_section contains '>English</h1>' %}
+      {% assign english_content = heading_section | split: '</h1>' | last %}
+    {% endif %}
+  {% endfor %}
   <div class="shell">
     <nav>
       <a class="brand" href="/" aria-label="Wilwigo home"><img src="/wilwigo-logo.webp" alt="Wilwigo" /></a>
-      <a class="home" href="/">Back to Wilwigo</a>
+      <a class="home" href="/"><span class="only-en" lang="en">Back to Wilwigo</span><span class="only-fr" lang="fr">Retour à Wilwigo</span></a>
     </nav>
-    <main><article>{{ content }}</article></main>
-    <footer>© 2026 Wilwigo Inc. · Early access</footer>
+    <main>
+      {% if french_content != '' and english_content != '' %}
+        <article class="only-en" lang="en">
+          <a class="language-switch" href="#français" lang="fr">Français</a>
+          <h1>{{ english_title | escape }}</h1>
+          {{ english_content }}
+        </article>
+        <article class="only-fr" lang="fr">
+          <a class="language-switch" href="#english" lang="en">English</a>
+          <h1>{{ french_title | escape }}</h1>
+          {{ french_content }}
+        </article>
+      {% else %}
+        <article>{{ content }}</article>
+      {% endif %}
+    </main>
+    <footer>
+      <span class="only-en" lang="en">© 2026 Wilwigo Inc. · Early access · <a href="/report-content/">Content reports</a></span>
+      <span class="only-fr" lang="fr">© 2026 Wilwigo Inc. · Accès anticipé · <a href="/report-content/#français">Signalement de contenu</a></span>
+    </footer>
   </div>
+  <script>
+    function setLegalLanguage() {
+      let language = 'en';
+      try {
+        if (decodeURIComponent(location.hash) === '#français') language = 'fr';
+      } catch (_) {}
+      document.documentElement.lang = language;
+      const heading = document.querySelector(language === 'fr' ? 'article.only-fr h1' : 'article.only-en h1');
+      if (heading) document.title = heading.textContent + ' — Wilwigo';
+    }
+    setLegalLanguage();
+    addEventListener('hashchange', setLegalLanguage);
+  </script>
 </body>
 </html>
