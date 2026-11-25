@@ -7,8 +7,8 @@ permalink: /terms/
 
 **Exploitant / Operator :** Wilwigo Inc.
 **Produit / Product :** Wilwigo
-**Version :** L1-T-2.3
-**Date d’entrée en vigueur / Effective date :** 2026-11-20
+**Version :** L1-T-2.4
+**Date d’entrée en vigueur / Effective date :** 2026-11-25
 
 [Français](#français) · [English](#english)
 
@@ -35,15 +35,19 @@ Vous pouvez utiliser le Service seulement si :
 - vous utilisez le Service pour votre propre usage et ne revendez pas l’accès à Wilwigo ni ne l’exploitez commercialement; et
 - les renseignements que vous fournissez à votre sujet sont raisonnablement exacts.
 
+Dans les versions Android qui prennent en charge les signaux d’âge de Google Play, Wilwigo peut vérifier automatiquement votre admissibilité lorsque le partage de renseignements sur l’âge est obligatoire. L’accès peut être refusé ou temporairement limité si vous ne remplissez pas la condition d’âge ou si votre admissibilité ne peut être confirmée. La Politique de confidentialité explique ce traitement et la procédure de réexamen.
+
 Votre compte est personnel. Vous ne pouvez pas le vendre ou le transférer, en partager l’accès ni permettre à une autre personne de l’utiliser comme le sien.
 
 Protégez votre compte et vos identifiants de connexion. N’envoyez pas votre mot de passe Google, vos codes de récupération ou d’autres identifiants de connexion confidentiels au soutien de Wilwigo ou à d’autres personnes. Si vous croyez qu’une personne a accédé à votre compte sans autorisation, communiquez rapidement avec nous.
 
 ### Disponibilité géographique initiale
 
-Le Service n’est pas proposé aux résidents habituels des pays et territoires ci-dessous. Cette restriction vise la résidence habituelle, non la nationalité. La disponibilité varie selon les boutiques et les canaux de distribution; un téléchargement ne confirme pas à lui seul l’admissibilité. Ces restrictions s’appliquent également à l’accès Web pendant sa disponibilité.
+Le lancement initial sur Google Play est limité aux marchés suivants : Aruba, Bahamas, Bermudes, Canada, îles Caïmans, Hong Kong, Israël, Japon, Koweït, Macao, Nouvelle-Zélande, Qatar, Singapour, Corée du Sud, Suisse, Taïwan, Émirats arabes unis et États-Unis.
 
-La disponibilité initiale exclut : Afghanistan, Albanie, Allemagne, Australie, Autriche, Bangladesh, Belgique, Biélorussie, Brésil, Bulgarie, Chine, Chypre, Corée du Nord, Croatie, Cuba, Danemark, Égypte, Équateur, Espagne, Estonie, Éthiopie, Finlande, France, Ghana, Grèce, Guadeloupe, Guyane française, Hongrie, Île Christmas, Île Norfolk, Îles Åland, Îles Cocos, Indonésie, Irak, Iran, Irlande, Islande, Italie, Kazakhstan, La Réunion, Lettonie, Liechtenstein, Lituanie, Luxembourg, Macédoine du Nord, Malaisie, Malte, Martinique, Mayotte, Mexique, Moldavie, Mozambique, Nigeria, Norvège, Nouvelle-Calédonie, Ouganda, Ouzbékistan, Pays-Bas, Pologne, Polynésie française, Portugal, Roumanie, Royaume-Uni, Russie, Rwanda, Sahara occidental, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, Serbie, Slovaquie, Slovénie, Soudan, Suède, Svalbard et Jan Mayen, Syrie, Tanzanie, Tchéquie, Territoires palestiniens, Tunisie, Turkménistan, Turquie, Viêt Nam, Wallis-et-Futuna, Yémen, Zambie. Le Service n’est pas non plus proposé en Crimée ni dans les autres régions d’Ukraine visées par les sanctions territoriales canadiennes applicables. Le reste de l’Ukraine n’est pas exclu par cette règle.
+La disponibilité peut varier selon la boutique et le canal de distribution. Pendant la transition vers les applications mobiles, l’accès Web peut rester offert dans d’autres marchés admissibles; les restrictions géographiques existantes demeurent applicables. L’admissibilité géographique dépend de la résidence habituelle, non de la nationalité. Un téléchargement ne confirme pas à lui seul l’admissibilité.
+
+Le Service n’est pas offert dans les marchés que Wilwigo a exclus ni lorsque sa fourniture contreviendrait aux sanctions canadiennes, aux restrictions légales ou aux restrictions applicables de ses fournisseurs. Communiquez avec nous si vous avez un doute quant à l’admissibilité de votre lieu de résidence.
 
 Ne contournez pas les restrictions applicables et ne fournissez pas sciemment de renseignements inexacts. Vous devez respecter les lois applicables à votre utilisation. Cela ne supprime ni les obligations légales de Wilwigo ni les droits qui ne peuvent être écartés par contrat. Un résident admissible peut utiliser le Service en voyage lorsque les lois et restrictions des fournisseurs applicables le permettent.
 
@@ -215,8 +219,8 @@ Questions au sujet des présentes Conditions :
 **privacy@wilwigo.com**
 **Ontario, Canada**
 
-**Version :** L1-T-2.3
-**Date d’entrée en vigueur :** 2026-11-20
+**Version :** L1-T-2.4
+**Date d’entrée en vigueur :** 2026-11-25
 
 ---
 
@@ -241,15 +245,19 @@ You may use the Service only if:
 - you use the Service for your own use and do not resell access to, or commercially exploit, Wilwigo; and
 - the information you provide about yourself is reasonably accurate.
 
+In Android versions that support Google Play age signals, Wilwigo may automatically check eligibility where age-information sharing is mandatory. Access may be denied or temporarily restricted if you do not meet the age requirement or your eligibility cannot be confirmed. The Privacy Notice explains this processing and how to request review.
+
 Your account is personal. You may not sell or transfer it, share access to it, or allow another person to use it as their own.
 
 Keep your account and sign-in credentials secure. Do not send your Google password, recovery codes, or other confidential login credentials to Wilwigo support or to other people. If you believe someone has accessed your account without permission, contact us promptly.
 
 ### Initial geographic availability
 
-The Service is not offered to usual residents of the countries and territories below. This restriction concerns usual residence, not nationality. Availability varies by store and distribution channel; downloading the app does not by itself establish eligibility. These restrictions also apply to web access while it remains available.
+Initial Google Play distribution is limited to the following markets: Aruba, Bahamas, Bermuda, Canada, Cayman Islands, Hong Kong, Israel, Japan, Kuwait, Macao, New Zealand, Qatar, Singapore, South Korea, Switzerland, Taiwan, United Arab Emirates, and United States.
 
-Initial availability excludes: Afghanistan, Åland Islands, Albania, Australia, Austria, Bangladesh, Belarus, Belgium, Brazil, Bulgaria, China, Christmas Island, Cocos (Keeling) Islands, Croatia, Cuba, Cyprus, Czechia, Denmark, Ecuador, Egypt, Estonia, Ethiopia, Finland, France, French Guiana, French Polynesia, Germany, Ghana, Greece, Guadeloupe, Hungary, Iceland, Indonesia, Iran, Iraq, Ireland, Italy, Kazakhstan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malaysia, Malta, Martinique, Mayotte, Mexico, Moldova, Mozambique, Netherlands, New Caledonia, Nigeria, Norfolk Island, North Korea, North Macedonia, Norway, Palestinian Territories, Poland, Portugal, Réunion, Romania, Russia, Rwanda, Serbia, Slovakia, Slovenia, Spain, St. Barthélemy, St. Martin, St. Pierre & Miquelon, Sudan, Svalbard & Jan Mayen, Sweden, Syria, Tanzania, Tunisia, Türkiye, Turkmenistan, Uganda, United Kingdom, Uzbekistan, Vietnam, Wallis & Futuna, Western Sahara, Yemen, Zambia. The Service is also unavailable in Crimea and other Ukrainian regions covered by applicable Canadian territorial sanctions. Other parts of Ukraine are not excluded by that rule.
+Availability may vary by store and distribution channel. During the transition to mobile apps, web access may remain available in other eligible markets; existing geographic eligibility restrictions continue to apply. Geographic eligibility concerns usual residence, not nationality. Downloading the app does not by itself establish eligibility.
+
+The Service is not offered in markets excluded by Wilwigo or where providing it would violate Canadian sanctions, applicable legal restrictions, or applicable provider restrictions. Contact us if you are unsure whether your place of residence is eligible.
 
 Do not circumvent applicable restrictions or knowingly provide inaccurate information. You must comply with the laws applicable to your use. This does not remove Wilwigo’s legal obligations or rights that cannot be excluded by contract. An eligible resident may use the Service while travelling where applicable law and provider restrictions permit.
 
@@ -421,5 +429,5 @@ Questions about these Terms:
 **privacy@wilwigo.com**
 **Ontario, Canada**
 
-**Version:** L1-T-2.3
-**Effective date:** 2026-11-20
+**Version:** L1-T-2.4
+**Effective date:** 2026-11-25
