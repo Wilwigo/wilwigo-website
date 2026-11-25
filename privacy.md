@@ -7,8 +7,8 @@ permalink: /privacy/
 
 **Responsable / Operator :** Wilwigo Inc.
 **Produit / Product :** Wilwigo
-**Version :** L1-P-2.2
-**Date d’entrée en vigueur / Effective date :** 2026-11-20
+**Version :** L1-P-2.3
+**Date d’entrée en vigueur / Effective date :** 2026-11-25
 
 [Français](#français) · [English](#english)
 
@@ -107,7 +107,7 @@ Wilwigo conserve également les renseignements nécessaires pour prouver l’acc
 Wilwigo reçoit des renseignements :
 
 - directement de vous;
-- de Google lorsque vous choisissez de vous connecter avec Google;
+- de Google lorsque vous choisissez de vous connecter avec Google, ainsi que de Google Play pour la vérification de l’âge décrite à l’article 12;
 - d’autres participants lorsqu’ils interagissent avec vous dans Wilwigo; et
 - du Service lorsqu’il calcule des fonctions comme la présence prévue, les Overlaps, les notifications et la progression.
 
@@ -223,6 +223,10 @@ Wilwigo traite les incidents de confidentialité et de sécurité et transmet le
 
 Wilwigo est destiné aux personnes âgées d’au moins 18 ans qui sont légalement autorisées à utiliser le Service et à conclure les Conditions là où elles se trouvent. Si nous apprenons qu’un compte ne respecte pas cette exigence, nous pouvons le suspendre ou le fermer et traiter les renseignements associés conformément à la présente Politique et à la loi applicable.
 
+Dans les versions Android qui prennent en charge les signaux d’âge de Google Play, l’application vérifie si le partage de ces renseignements est obligatoire. Dans ce cas, elle utilise la tranche d’âge et l’état du partage fournis par Google Play pour déterminer automatiquement si vous remplissez notre condition d’âge de 18 ans. Ces renseignements sont traités sur l’appareil aux seules fins de cette vérification; Wilwigo ne les conserve pas et ne les transmet pas à ses serveurs. Wilwigo ne reçoit ni votre date de naissance exacte ni vos pièces d’identité. Google peut traiter séparément des renseignements pour ses propres vérifications, selon ses [règles de confidentialité](https://policies.google.com/privacy).
+
+Si vous ne remplissez pas la condition d’âge ou si votre admissibilité ne peut être confirmée, l’accès au Service peut être refusé ou temporairement limité. Vous pouvez demander au responsable de la protection des renseignements personnels (**privacy@wilwigo.com**) des renseignements sur les données utilisées et les principaux motifs et facteurs de la décision, demander une correction et présenter vos observations pour un réexamen humain. Si les renseignements de Google Play sont inexacts, leur correction peut nécessiter une démarche auprès de Google. Les demandes de suppression et les autres droits applicables demeurent accessibles même sans accès au Service.
+
 ## 13. Modifications de la présente Politique
 
 Nous vous aviserons avant de modifier de façon importante la manière dont nous recueillons, utilisons, communiquons ou affichons les renseignements personnels. Si une modification exige votre consentement, nous vous le demanderons avant d’utiliser vos renseignements à cette fin. Nous pouvons corriger des erreurs de typographie ou de mise en forme sans demander une nouvelle acceptation.
@@ -238,10 +242,10 @@ Pour toute question, demande ou plainte concernant la confidentialité :
 
 Le responsable de la protection des renseignements personnels supervise nos pratiques et examine les plaintes. Pour porter plainte, écrivez à l’adresse ci-dessus, décrivez la situation et indiquez comment vous joindre. Nous examinerons votre plainte et vous informerons du résultat. Notre page [Gouvernance de la confidentialité](https://wilwigo.com/privacy-governance/#français) décrit nos responsabilités, règles de conservation et processus de traitement des plaintes.
 
-Vous pouvez également vous adresser à l’autorité de protection de la vie privée compétente, notamment au [Commissariat à la protection de la vie privée du Canada](https://www.priv.gc.ca/), à la [Commission d’accès à l’information du Québec](https://www.cai.gouv.qc.ca/) lorsque le droit québécois s’applique, à votre [autorité de l’EEE](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en), ou à l’[ICO au Royaume-Uni](https://ico.org.uk/make-a-complaint/), selon le droit applicable.
+Vous pouvez également vous adresser à l’autorité de protection de la vie privée compétente, notamment au [Commissariat à la protection de la vie privée du Canada](https://www.priv.gc.ca/), à la [Commission d’accès à l’information du Québec](https://www.cai.gouv.qc.ca/) lorsque le droit québécois s’applique, ou à toute autre autorité compétente selon le droit applicable.
 
-**Version :** L1-P-2.2
-**Date d’entrée en vigueur :** 2026-11-20
+**Version :** L1-P-2.3
+**Date d’entrée en vigueur :** 2026-11-25
 
 ---
 
@@ -338,7 +342,7 @@ Wilwigo also keeps information needed to prove acceptance of applicable legal do
 Wilwigo receives information:
 
 - directly from you;
-- from Google when you choose to sign in with Google;
+- from Google when you choose to sign in with Google, and from Google Play for the age check described in section 12;
 - from other participants when they interact with you in Wilwigo; and
 - from the Service when it derives features such as planned presence, Overlaps, notifications, and progress.
 
@@ -454,6 +458,10 @@ Wilwigo handles privacy and security incidents and provides notifications or rep
 
 Wilwigo is intended for people who are at least 18 years old and legally permitted to use the Service and enter the Terms where they are located. If we learn that an account does not meet this requirement, we may suspend or close it and handle the associated information under this Notice and applicable law.
 
+In Android versions that support Google Play age signals, the app checks whether sharing this information is mandatory. Where it is, the app uses the age range and sharing status provided by Google Play to automatically determine whether you meet our minimum age of 18. This information is processed on the device solely for this check; Wilwigo does not retain it or transmit it to its servers. Wilwigo does not receive your exact date of birth or identity documents. Google may process information separately for its own verification under its [Privacy Policy](https://policies.google.com/privacy).
+
+If you do not meet the age requirement or your eligibility cannot be confirmed, Service access may be denied or temporarily restricted. You may ask our Privacy Officer (**privacy@wilwigo.com**) for information about the data used and the main reasons and factors behind the decision, request a correction, and submit observations for human review. If Google Play's information is inaccurate, correcting it may require action with Google. Deletion requests and other applicable rights remain available even without access to the Service.
+
 ## 13. Changes to this Notice
 
 We will notify you before materially changing how we collect, use, disclose or display personal information. If a change requires your consent, we will ask before using your information for that purpose. We may correct typographical or formatting errors without asking for renewed acceptance.
@@ -469,7 +477,7 @@ For privacy questions, requests, or complaints:
 
 Our Privacy Officer oversees our practices and reviews privacy complaints. To make a complaint, write to the address above, describe the issue and tell us how to reach you. We will examine your complaint and tell you the outcome. Our [Privacy Governance](https://wilwigo.com/privacy-governance/) page explains our responsibilities, retention rules and complaint process.
 
-You may also contact the privacy authority that applies to your concern, including the [Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/), the [Commission d’accès à l’information du Québec](https://www.cai.gouv.qc.ca/) where Quebec law applies, your [EEA supervisory authority](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en), or the [UK ICO](https://ico.org.uk/make-a-complaint/), as applicable.
+You may also contact the privacy authority that applies to your concern, including the [Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/), the [Commission d’accès à l’information du Québec](https://www.cai.gouv.qc.ca/) where Quebec law applies, or any other competent authority under applicable law.
 
-**Version:** L1-P-2.2
-**Effective date:** 2026-11-20
+**Version:** L1-P-2.3
+**Effective date:** 2026-11-25
